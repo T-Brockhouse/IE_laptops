@@ -21,7 +21,7 @@ RUN apt-get update && apt-get upgrade -y \
 
 # Upgrade pip and install necessary Python packages
 RUN python3 -m pip install --upgrade pip
-RUN python3 -m pip install pytest cmake scikit-build setuptools fastapi uvicorn sse-starlette pydantic-settings starlette-context langchain langchain-community transformers pandas
+RUN python3 -m pip install pytest cmake scikit-build setuptools fastapi uvicorn sse-starlette pydantic-settings starlette-context langchain langchain-community transformers
 RUN python3 -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
 # Set the environment variable to enable CUDA support in llama-cpp-python
