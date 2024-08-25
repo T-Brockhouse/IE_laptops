@@ -1,3 +1,6 @@
+# fetch model, depending on VRAM
+# huggingface-cli download bartowski/gemma-2-9b-it-GGUF --include "gemma-2-9b-it-Q6_K_L.gguf" --local-dir ./models
+
 # Imports
 from datetime import datetime, timedelta
 from langchain_community.llms import LlamaCpp
