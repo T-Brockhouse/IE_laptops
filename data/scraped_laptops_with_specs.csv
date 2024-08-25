@@ -1,0 +1,4321 @@
+Title,Price,answer,brand,model_name,CPU,RAM,disk_space,GPU
+"LENOVO IdeaPad 1i, inkl. 1 Jahr Microsoft 365 Single, Notebook, mit 15,6 Zoll Display, Intel® Celeron®,N4120 Prozessor, 4 GB RAM, 128 GB eMMC, Intel® UHD 600, Cloud Grey, Windows 11 Home S-Modus (64 Bit)","299,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 1i"",
+        ""CPU"": ""Intel® Celeron®,N4120"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD 600""
+    }
+]
+```",LENOVO,IdeaPad 1i,"Intel® Celeron®,N4120",4,128 GB eMMC,Intel® UHD 600
+"HP 17-cp2334ng, Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 3,7320U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Natural Silver, Windows 11 Home (64 Bit)","549,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""17-cp2334ng"",
+        ""CPU"": ""AMD Ryzen™ 3,7320U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,17-cp2334ng,"AMD Ryzen™ 3,7320U",8,512 GB,AMD Radeon™ Onboard Graphics
+"LENOVO IdeaPad Slim 3, Chromebook, mit 14 Zoll Display, MediaTek Kompanio,520 Prozessor, 4 GB RAM, 64 GB eMMC, ARM Mali-G52, Cloud Grey, Google Chrome OS","299,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad Slim 3 Chromebook"",
+        ""CPU"": ""MediaTek Kompanio 520"",
+        ""RAM"": 4,
+        ""disk space"": ""64 GB eMMC"",
+        ""GPU"": ""ARM Mali-G52""
+    }
+]
+```",LENOVO,IdeaPad Slim 3 Chromebook,MediaTek Kompanio 520,4,64 GB eMMC,ARM Mali-G52
+"ASUS Chromebook CX1 CX1500CKA-EJ0160, Chromebook, mit 15,6 Zoll Display, Intel® Celeron®,N4500 Prozessor, 4 GB RAM, 128 GB eMMC, Intel® UHD Graphics, Silber, Google Chrome OS","399,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Chromebook CX1 CX1500CKA-EJ0160"",
+        ""CPU"": ""Intel® Celeron®,N4500"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ASUS,Chromebook CX1 CX1500CKA-EJ0160,"Intel® Celeron®,N4500",4,128 GB eMMC,Intel® UHD Graphics
+"SAMSUNG Galaxy Book4, Notebook, mit 15,6 Zoll Display, Intel® Core™ 3,100U Prozessor, 8 GB RAM, 256 GB SSD, Intel® Core™ Onboard Graphics, Gray, Windows 11 Home (64 Bit)","799,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book4"",
+        ""CPU"": ""Intel® Core™ 3,100U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Core™ Onboard Graphics""
+    }
+]
+```",SAMSUNG,Galaxy Book4,"Intel® Core™ 3,100U",8,256 GB,Intel® Core™ Onboard Graphics
+"HP 15-fc0376ng, Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 7,7730U Prozessor, 16 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Silber, Windows 11 Home (64 Bit)","799,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""15-fc0376ng"",
+        ""CPU"": ""AMD Ryzen™ 7 7730U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,15-fc0376ng,AMD Ryzen™ 7 7730U,16,512 GB,AMD Radeon™ Onboard Graphics
+"ACER Swift Go (SFG14-71-51JU) mit OLED-Display, Notebook, mit 14 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ i5,i5-1335U (Evo) Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Pure Silver, Windows 11 Home (64 Bit)","819,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift Go (SFG14-71-51JU)"",
+        ""CPU"": ""Intel® Core™ i5,i5-1335U (Evo)"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ACER,Swift Go (SFG14-71-51JU),"Intel® Core™ i5,i5-1335U (Evo)",16,512 GB,Intel® Iris® Xe
+"LENOVO IdeaPad 3i, Notebook, mit 17,3 Zoll Display, Intel® Core™ i7,i7-1255U Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Arctic Grey, Windows 11 Home (64 Bit)","849,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 3i"",
+        ""CPU"": ""Intel® Core™ i7,i7-1255U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB SSD"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",LENOVO,IdeaPad 3i,"Intel® Core™ i7,i7-1255U",16,1 TB SSD,Intel® Iris® Xe
+"ACER Chromebook 317 (CB317-1H-C7H8), Chromebook, mit 17,3 Zoll Display, Intel® Celeron®,N5100 Prozessor, 4 GB RAM, 128 GB eMMC, Intel® UHD Graphics, Silber, Google Chrome OS","499,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook 317 (CB317-1H-C7H8)"",
+        ""CPU"": ""Intel® Celeron®,N5100"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Chromebook 317 (CB317-1H-C7H8),"Intel® Celeron®,N5100",4,128 GB eMMC,Intel® UHD Graphics
+"ASUS Zenbook 14 OLED UM3406HA-QD099W, Notebook, mit 14 Zoll Display, AMD Ryzen™ 7,8840HS Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon™ 780M, Jade Black, Windows 11 Home (64 Bit)","1299,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Zenbook 14 OLED UM3406HA-QD099W"",
+        ""CPU"": ""AMD Ryzen™ 7 8840HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""AMD Radeon™ 780M""
+    }
+]
+```",ASUS,Zenbook 14 OLED UM3406HA-QD099W,AMD Ryzen™ 7 8840HS,16,1 TB,AMD Radeon™ 780M
+"ASUS Vivobook 16 X1605ZA-MB416W, Notebook, mit 16 Zoll Display, Intel® Pentium® Gold,8505 Prozessor, 8 GB RAM, 512 GB SSD, Intel® UHD Graphics, Silber, Windows 11 Home (64 Bit)","449,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook 16 X1605ZA-MB416W"",
+        ""CPU"": ""Intel® Pentium® Gold,8505"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ASUS,Vivobook 16 X1605ZA-MB416W,"Intel® Pentium® Gold,8505",8,512 GB,Intel® UHD Graphics
+"ACER Predator Helios Neo 16, Gaming Notebook, mit 16,0 Zoll Display, Intel® Core™ i7,i7-13700HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Obsidian Black, Windows 11 Home (64 Bit)","2359,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Predator Helios Neo 16"",
+        ""CPU"": ""Intel® Core™ i7-13700HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ACER,Predator Helios Neo 16,Intel® Core™ i7-13700HX,32,1 TB,NVIDIA GeForce RTX™ 4070
+"ASUS Chromebook CX1700 (CX1700CKA-BX0035), Chromebook, mit 17,3 Zoll Display, Intel® Celeron®,N4500 Prozessor, 8 GB RAM, 128 GB eMMC, Intel® UHD Graphics, Transparent Silver, Google Chrome OS","499,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Chromebook CX1700"",
+        ""CPU"": ""Intel® Celeron® N4500"",
+        ""RAM"": 8,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ASUS,Chromebook CX1700,Intel® Celeron® N4500,8,128 GB eMMC,Intel® UHD Graphics
+"ASUS TUF Gaming A15 FA506NC-HN001W, Gaming Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,7535HS Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 3050, Graphite Black, Windows 11 Home (64 Bit)","899,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""TUF Gaming A15 FA506NC-HN001W"",
+        ""CPU"": ""AMD Ryzen™ 5,7535HS"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3050""
+    }
+]
+```",ASUS,TUF Gaming A15 FA506NC-HN001W,"AMD Ryzen™ 5,7535HS",16,512 GB,NVIDIA GeForce RTX™ 3050
+"LENOVO Yoga Pro 7i, Premium KI-Notebook, mit 14,5 Zoll Display, Intel® Evo™ Plattform, Intel® U-Series,155H Prozessor, 32 GB RAM, 1000 GB SSD GeForce RTX™ 4050, Luna Grey, Windows 11 Home (64 Bit)","1699,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""Yoga Pro 7i"",
+        ""CPU"": ""Intel® U-Series,155H"",
+        ""RAM"": 32,
+        ""disk space"": ""1000 GB"",
+        ""GPU"": ""GeForce RTX™ 4050""
+    }
+]
+```",LENOVO,Yoga Pro 7i,"Intel® U-Series,155H",32,1000 GB,GeForce RTX™ 4050
+"LENOVO LOQ 15IAX9, Gaming-Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,12450HX Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 2050, Luna Grey, Windows 11 Home (64 Bit)","849,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""LOQ 15IAX9"",
+        ""CPU"": ""Intel® Core™ i5,12450HX"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 2050""
+    }
+]
+```",LENOVO,LOQ 15IAX9,"Intel® Core™ i5,12450HX",16,512 GB,NVIDIA GeForce RTX™ 2050
+"ACER Aspire 3 (A315-44P-R53H), Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 7,5700U Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon™ Onboard Graphics, Pure Silver, Windows 11 Home (64 Bit)","629,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 3 (A315-44P-R53H)"",
+        ""CPU"": ""AMD Ryzen™ 7 5700U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",ACER,Aspire 3 (A315-44P-R53H),AMD Ryzen™ 7 5700U,16,1 TB,AMD Radeon™ Onboard Graphics
+"MSI Thin GF63 12VE-081, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-12450H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Schwarz, Windows 11 Home (64 Bit)","999,00€","```json
+[
+    {
+        ""brand"": ""MSI"",
+        ""model name"": ""Thin GF63 12VE-081"",
+        ""CPU"": ""Intel® Core™ i5,i5-12450H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",MSI,Thin GF63 12VE-081,"Intel® Core™ i5,i5-12450H",16,512 GB,NVIDIA GeForce RTX™ 4050
+"LENOVO LOQ 15IRX9, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-13450HX Prozessor, 16 GB RAM, 1 TB SSD GeForce RTX™ 4060, Luna Grey, Windows 11 Home (64 Bit)","1199,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""LOQ 15IRX9"",
+        ""CPU"": ""Intel® Core™ i5-13450HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""GeForce RTX™ 4060""
+    }
+]
+```",LENOVO,LOQ 15IRX9,Intel® Core™ i5-13450HX,16,1 TB,GeForce RTX™ 4060
+"ASUS Vivobook 16 X1605VA-MB183W, Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-13900H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Schwarz, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook 16 X1605VA-MB183W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ASUS,Vivobook 16 X1605VA-MB183W,"Intel® Core™ i9,i9-13900H",16,1 TB,Intel® Iris® Xe
+"ACER Aspire 3 (A317-55P-384L), Notebook, mit 17,3 Zoll Display, Intel® Core™ i3,i3-N305 Prozessor, 8 GB RAM, 512 GB SSD, Intel® UHD Graphics, Steel Grey, Windows 11 Home (64 Bit)","609,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 3 (A317-55P-384L)"",
+        ""CPU"": ""Intel® Core™ i3,i3-N305"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Aspire 3 (A317-55P-384L),"Intel® Core™ i3,i3-N305",8,512 GB,Intel® UHD Graphics
+"APPLE MacBook Air (2020), Notebook mit 13,3 Zoll Display, Apple M1 Prozessor, 8 GB RAM, 256 GB SSD, M1, Silber","1129,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2020)"",
+        ""CPU"": ""Apple M1"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2020),Apple M1,8,256 GB,
+"ASUS Vivobook 16 X1605ZA-MB003W, Notebook, mit 16 Zoll Display, Intel® Core™ i5,i5-1235U Prozessor, 8 GB RAM, 512 GB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (64 Bit)","699,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook 16 X1605ZA-MB003W"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ASUS,Vivobook 16 X1605ZA-MB003W,"Intel® Core™ i5,i5-1235U",8,512 GB,Intel® Iris® Xe
+"APPLE MacBook Air (2024), MRXW3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 8 GB RAM, 512 GB SSD, Mitternacht, macOS","1529,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,512 GB,
+"HP OMEN 16-xd0353ng, Gaming Notebook, mit 16,1 Zoll Display, AMD Ryzen™ 5,7640HS  Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Schwarz, Windows 11 Home (64 Bit)","1399,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OMEN 16-xd0353ng"",
+        ""CPU"": ""AMD Ryzen™ 5,7640HS"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",HP,OMEN 16-xd0353ng,"AMD Ryzen™ 5,7640HS",16,512 GB,NVIDIA GeForce RTX™ 4050
+"LENOVO IdeaPad 3i, Notebook, mit 17,3 Zoll Display, Intel® Core™ i5,i5-1235U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Arctic Grey, Windows 11 Home (64 Bit)","659,99€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 3i"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",LENOVO,IdeaPad 3i,"Intel® Core™ i5,i5-1235U",16,512 GB,Intel® Iris® Xe
+"MSI Katana 17 B13VFK-848, Gaming Notebook, mit 17,3 Zoll Display, Intel® Core™ i7,i7-13620H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz, Windows 11 (64 Bit)","1599,00€","```json
+[
+    {
+        ""brand"": ""MSI"",
+        ""model name"": ""Katana 17 B13VFK-848"",
+        ""CPU"": ""Intel® Core™ i7,i7-13620H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",MSI,Katana 17 B13VFK-848,"Intel® Core™ i7,i7-13620H",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Predator Helios Neo 18 (PHN18-71-72L2) mit 165 Hz Display mit RGB Tastaturbeleuchtung, Gaming Notebook, mit 18 Zoll Display, Intel® Core™ i7,i7-14650HX Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Abyssal Black, Windows 11 (64 Bit)","1799,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Predator Helios Neo 18 (PHN18-71-72L2)"",
+        ""CPU"": ""Intel® Core™ i7,i7-14650HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ACER,Predator Helios Neo 18 (PHN18-71-72L2),"Intel® Core™ i7,i7-14650HX",16,1 TB,NVIDIA GeForce RTX™ 4060
+"LENOVO Yoga Slim 7x, Copilot+ PC, Copilot+ PC, mit 14,5 Zoll Display, Qualcomm Snapdragon X Elite,X1E78100 Prozessor, 32 GB RAM, 1 TB SSD, Qualcomm Adreno™ Onboard Graphics, Cosmic Blue, Windows 11 Home (64 Bit)","1599,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""Yoga Slim 7x"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite,X1E78100"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",LENOVO,Yoga Slim 7x,"Qualcomm Snapdragon X Elite,X1E78100",32,1 TB,Qualcomm Adreno™ Onboard Graphics
+"HP Pavilion Plus 14-eh1359ng, Notebook, mit 14 Zoll Display, Intel® Core™ i5,i5-1340P Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (64 Bit)","799,99€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Pavilion Plus 14-eh1359ng"",
+        ""CPU"": ""Intel® Core™ i5,i5-1340P"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HP,Pavilion Plus 14-eh1359ng,"Intel® Core™ i5,i5-1340P",16,512 GB,Intel® Iris® Xe
+"ASUS ROG Strix G18 G814JI-N5056W, Gaming Notebook, mit 18 Zoll Display, Intel® Core™ i9,i9-13980HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz/Grau, Windows 11 Home (64 Bit)","2199,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Strix G18 G814JI-N5056W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13980HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ASUS,ROG Strix G18 G814JI-N5056W,"Intel® Core™ i9,i9-13980HX",32,1 TB,NVIDIA GeForce RTX™ 4070
+"LENOVO IdeaPad Flex 5i, Chromebook Plus, mit 14 Zoll Display, Intel® Core™ i3,i3-1315U Prozessor, 8 GB RAM, 512 GB SSD, Intel® UHD Graphics, Storm Grey, Google Chrome OS","679,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad Flex 5i, Chromebook Plus"",
+        ""CPU"": ""Intel® Core™ i3-1315U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",LENOVO,"IdeaPad Flex 5i, Chromebook Plus",Intel® Core™ i3-1315U,8,512 GB,Intel® UHD Graphics
+"ACER Aspire 5 (A515-57-53QH) mit Tastaturbeleuchtung, Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-12450H Prozessor, 16 GB RAM, 512 GB SSD, Intel® UHD Graphics, Steel Gray, Windows 11 Home (64 Bit)","689,99€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 5 (A515-57-53QH)"",
+        ""CPU"": ""Intel® Core™ i5,i5-12450H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Aspire 5 (A515-57-53QH),"Intel® Core™ i5,i5-12450H",16,512 GB,Intel® UHD Graphics
+"LENOVO IdeaPad Slim 3i, Notebook, mit 16 Zoll Display, Intel® Core™ i5,i5-12450H Prozessor, 16 GB RAM, 512 GB SSD, Intel® UHD Graphics, Arctic Grey, Windows 11 Home (64 Bit)","589,99€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad Slim 3i"",
+        ""CPU"": ""Intel® Core™ i5-12450H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",LENOVO,IdeaPad Slim 3i,Intel® Core™ i5-12450H,16,512 GB,Intel® UHD Graphics
+"ACER Aspire 3 (A315-58-3652), Notebook, mit 15,6 Zoll Display, Intel® Core™ i3,i3-1115G4 Prozessor, 16 GB RAM, 512 GB SSD, Intel® UHD Graphics, Pure Silver, Windows 11 Home (64 Bit)","519,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 3 (A315-58-3652)"",
+        ""CPU"": ""Intel® Core™ i3,i3-1115G4"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Aspire 3 (A315-58-3652),"Intel® Core™ i3,i3-1115G4",16,512 GB,Intel® UHD Graphics
+"ACER Chromebook 315 (CB315-3H-C0AY), Chromebook, mit 15,6 Zoll Display, Intel® Celeron®,N4120 Prozessor, 4 GB RAM, 128 GB eMMC, Intel® UHD 600, Pure Silver, Google Chrome OS","349,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook 315 (CB315-3H-C0AY)"",
+        ""CPU"": ""Intel® Celeron®,N4120"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD 600""
+    }
+]
+```",ACER,Chromebook 315 (CB315-3H-C0AY),"Intel® Celeron®,N4120",4,128 GB eMMC,Intel® UHD 600
+"ASUS ZenBook 15 OLED UM3504DA-MA217W, Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 7,7735U Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon™ 680M, Blau, Windows 11 Home (64 Bit)","1499,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ZenBook 15 OLED UM3504DA-MA217W"",
+        ""CPU"": ""AMD Ryzen™ 7,7735U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""AMD Radeon™ 680M""
+    }
+]
+```",ASUS,ZenBook 15 OLED UM3504DA-MA217W,"AMD Ryzen™ 7,7735U",16,1 TB,AMD Radeon™ 680M
+"ACER Chromebook 314 (CB314-3HT-P0U0), Chromebook, mit 14 Zoll Display Touchscreen, Intel® Pentium®,N6000 Prozessor, 4 GB RAM, 128 GB eMMC, Intel® UHD Graphics, Pure Silver, Google Chrome OS","519,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook 314 (CB314-3HT-P0U0)"",
+        ""CPU"": ""Intel® Pentium®,N6000"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Chromebook 314 (CB314-3HT-P0U0),"Intel® Pentium®,N6000",4,128 GB eMMC,Intel® UHD Graphics
+"APPLE MacBook Air (2024), MXCU3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 16 GB RAM, 512 GB SSD, Silber, macOS","1759,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,16,512 GB,
+"APPLE MacBook Pro (2023), Notebook mit 16 Zoll Display, Apple M3 Pro Chip, 18 GB RAM, 18-Core GPU, 512 GB SSD, Space Schwarz","2999,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2023)"",
+        ""CPU"": ""Apple M3 Pro"",
+        ""RAM"": 18,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""18-Core GPU""
+    }
+]
+```",APPLE,MacBook Pro (2023),Apple M3 Pro,18,512 GB,18-Core GPU
+"APPLE MacBook Air (2022), MLY43D/A, Notebook mit 13,6 Zoll Display, Apple M2 Prozessor, 8 GB RAM, 512 GB SSD, M2, Mitternacht","1429,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2022)"",
+        ""CPU"": ""Apple M2"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2022),Apple M2,8,512 GB,
+"APPLE MacBook Air (2024), MRYM3D/A, Notebook, mit 15,3 Zoll Display, M3 Prozessor, 8 GB RAM, 256 GB SSD, Space Grau, macOS","1599,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,256 GB,
+"LENOVO Lenovo LOQ 15, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-13500H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4060, Storm Grey, Windows 11 Home (64 Bit)","1319,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""LOQ 15"",
+        ""CPU"": ""Intel® Core™ i5-13500H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",LENOVO,LOQ 15,Intel® Core™ i5-13500H,16,512 GB,NVIDIA GeForce RTX™ 4060
+"APPLE MacBook Air (2022), MLY03D/A, Notebook mit 13,6 Zoll Display, Apple M2 Prozessor, 8 GB RAM, 512 GB SSD, M2, Silber","1429,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2022)"",
+        ""CPU"": ""Apple M2"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2022),Apple M2,8,512 GB,
+"ASUS Vivobook Go 15 E510MA-EJ592WS, Laptop, mit 15,6 Zoll Display, Intel® Celeron®,N4020 Prozessor, 4 GB RAM, 128 GB eMMC, Intel® UHD 600, Blau, Windows 11 Home S-Modus (64 Bit)","299,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook Go 15 E510MA-EJ592WS"",
+        ""CPU"": ""Intel® Celeron® N4020"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD 600""
+    }
+]
+```",ASUS,Vivobook Go 15 E510MA-EJ592WS,Intel® Celeron® N4020,4,128 GB eMMC,Intel® UHD 600
+"MICROSOFT Surface Pro, Copilot+ PC, 11. Edition, Convertible, mit 13 Zoll Display, Qualcomm Snapdragon X Plus, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Schwarz, Windows 11 Home (64 Bit)","1449,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Pro, Copilot+ PC, 11. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Plus"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Pro, Copilot+ PC, 11. Edition",Qualcomm Snapdragon X Plus,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"MEDION E16433, Notebook, mit 16,0 Zoll Display, Intel® Core™ 5,i5-1235U Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (32 bit)","629,00€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""E16433"",
+        ""CPU"": ""Intel® Core™ i5-1235U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MEDION,E16433,Intel® Core™ i5-1235U,16,1 TB,Intel® Iris® Xe
+"MICROSOFT Surface Pro, Copilot+ PC, 11. Edition, OLED, Convertible, mit 13 Zoll Display, Qualcomm Snapdragon X Elite, 16 GB RAM, 1 TB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","1989,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Pro, Copilot+ PC, 11. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Pro, Copilot+ PC, 11. Edition",Qualcomm Snapdragon X Elite,16,1 TB,Qualcomm Adreno™ Onboard Graphics
+"ASUS Vivobook 16X OLED K3605VU-MX131W, Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-13900H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4050, Schwarz, Windows 11 Home (64 Bit)","1799,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook 16X OLED K3605VU-MX131W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",ASUS,Vivobook 16X OLED K3605VU-MX131W,"Intel® Core™ i9,i9-13900H",16,1 TB,NVIDIA GeForce RTX™ 4050
+"APPLE MacBook Air (2022), MLY23D/A, Notebook mit 13,6 Zoll Display, Apple M2 Prozessor, 8 GB RAM, 512 GB SSD, M2, Polarstern","1429,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2022)"",
+        ""CPU"": ""Apple M2"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2022),Apple M2,8,512 GB,
+"HUAWEI Matebook 14, Notebook, mit 14 Zoll Display, Intel® Core™ i5,i5-1240P Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Space Gray, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""HUAWEI"",
+        ""model name"": ""Matebook 14"",
+        ""CPU"": ""Intel® Core™ i5-1240P"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HUAWEI,Matebook 14,Intel® Core™ i5-1240P,16,512 GB,Intel® Iris® Xe
+"ACER Nitro 5 (AN517-55-536Q) mit 144 Hz Display & RGB Tastaturbeleuchtung, Gaming Notebook, mit 17,3 Zoll Display, Intel® Core™ i5,i5-12450H  Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Schwarz, Windows 11 Home (64 Bit)","1329,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Nitro 5 (AN517-55-536Q)"",
+        ""CPU"": ""Intel® Core™ i5,i5-12450H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",ACER,Nitro 5 (AN517-55-536Q),"Intel® Core™ i5,i5-12450H",16,512 GB,NVIDIA GeForce RTX™ 4050
+"SAMSUNG Galaxy Book4, Notebook, mit 15,6 Zoll Display, Intel® Core™ 7,150U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Core™ Onboard Graphics, Silver, Windows 11 Pro (64 Bit)","1259,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book4"",
+        ""CPU"": ""Intel® Core™ 7,150U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Core™ Onboard Graphics""
+    }
+]
+```",SAMSUNG,Galaxy Book4,"Intel® Core™ 7,150U",16,512 GB,Intel® Core™ Onboard Graphics
+"ASUS ROG Strix G17 G713PV-LL014W, Gaming Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 9,7945HX  Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz/Grau, Windows 11 Home (64 Bit)","2199,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Strix G17 G713PV-LL014W"",
+        ""CPU"": ""AMD Ryzen™ 9,7945HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ROG Strix G17 G713PV-LL014W,"AMD Ryzen™ 9,7945HX",32,1 TB,NVIDIA GeForce RTX™ 4060
+"MICROSOFT Surface Laptop Go 3, Notebook, mit 12,45 Zoll Display Touchscreen, Intel® Core™ i5,i5-1235U Prozessor, 16 GB RAM, 256 GB SSD, Intel® Iris® Xe, Sandstein, Windows 11 Home (64 Bit)","1149,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Go 3"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 16,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MICROSOFT,Surface Laptop Go 3,"Intel® Core™ i5,i5-1235U",16,256 GB,Intel® Iris® Xe
+"ASUS ROG Zephyrus G14 GA403UV-QS020W, Gaming Notebook, mit 14 Zoll Display, AMD Ryzen™ 9,8945HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz/Grau, Windows 11 Home (64 Bit)","2079,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Zephyrus G14 GA403UV-QS020W"",
+        ""CPU"": ""AMD Ryzen™ 9 8945HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ROG Zephyrus G14 GA403UV-QS020W,AMD Ryzen™ 9 8945HS,16,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Nitro 5 (AN515-58-745M), Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i7,i7-12700H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 3060, Schwarz, Windows 11 Home (64 Bit)","1499,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Nitro 5 (AN515-58-745M)"",
+        ""CPU"": ""Intel® Core™ i7,i7-12700H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3060""
+    }
+]
+```",ACER,Nitro 5 (AN515-58-745M),"Intel® Core™ i7,i7-12700H",16,512 GB,NVIDIA GeForce RTX™ 3060
+"ASUS ZenBook Pro 14 OLED UX6404VV-M9022W, Creator Notebook, mit 14 Zoll Display, Intel® Core™ i9,i9-13900H Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Tech Black, Windows 11 Home (64 Bit)","2999,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ZenBook Pro 14 OLED UX6404VV-M9022W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ZenBook Pro 14 OLED UX6404VV-M9022W,"Intel® Core™ i9,i9-13900H",32,1 TB,NVIDIA GeForce RTX™ 4060
+"APPLE MacBook Pro (2023), Notebook mit 16 Zoll Display, Apple M3 Pro Chip, 36 GB RAM, 18-Core GPU, 512 GB SSD, Silber","3459,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2023)"",
+        ""CPU"": ""Apple M3 Pro"",
+        ""RAM"": 36,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""18-Core GPU""
+    }
+]
+```",APPLE,MacBook Pro (2023),Apple M3 Pro,36,512 GB,18-Core GPU
+"HP 15s-fq0318ng, Notebook, mit 15,6 Zoll Display, Intel® Celeron®,N4120 Prozessor, 8 GB RAM, 512 GB SSD, Intel® UHD 600, Schwarz, Windows 11 Home (64 Bit)","399,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""15s-fq0318ng"",
+        ""CPU"": ""Intel® Celeron®,N4120"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD 600""
+    }
+]
+```",HP,15s-fq0318ng,"Intel® Celeron®,N4120",8,512 GB,Intel® UHD 600
+"MICROSOFT Surface Laptop, Copilot+ PC, 7. Edition, Copilot+ PC, mit 13,8 Zoll Display Touchscreen, Qualcomm Snapdragon X Elite, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","1639,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop, Copilot+ PC, 7. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Laptop, Copilot+ PC, 7. Edition",Qualcomm Snapdragon X Elite,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"HP Pavilion Plus 14-ew0355ng, Notebook, mit 14 Zoll Display, Intel® Core™ i5,i5-1335U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (64 Bit)","899,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Pavilion Plus 14-ew0355ng"",
+        ""CPU"": ""Intel® Core™ i5,i5-1335U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HP,Pavilion Plus 14-ew0355ng,"Intel® Core™ i5,i5-1335U",16,512 GB,Intel® Iris® Xe
+"PEAQ Classic PNB C140V-2G428D-1, Notebook, mit 14 Zoll Display, Intel® Pentium® Silver,N5030 Prozessor, 4 GB RAM, 128 GB SSD, Intel® UHD 605, Grau, Windows 11 Home S-Modus (64 Bit)","269,99€","```json
+[
+    {
+        ""brand"": ""PEAQ"",
+        ""model name"": ""Classic PNB C140V-2G428D-1"",
+        ""CPU"": ""Intel® Pentium® Silver N5030"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB"",
+        ""GPU"": ""Intel® UHD 605""
+    }
+]
+```",PEAQ,Classic PNB C140V-2G428D-1,Intel® Pentium® Silver N5030,4,128 GB,Intel® UHD 605
+"MICROSOFT Surface Laptop 5, Notebook, mit 13,5 Zoll Display Touchscreen, Intel® Core™ i5,i5-1235U (evo) Prozessor, 8 GB RAM, 256 GB SSD, Intel® Iris® Xe, Platin, Windows 11 Home (64 Bit)","1179,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop 5"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U (evo)"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MICROSOFT,Surface Laptop 5,"Intel® Core™ i5,i5-1235U (evo)",8,256 GB,Intel® Iris® Xe
+"ACER Swift Go (SFG14-42-R6VL) mit OLED-Display, Notebook, mit 14,0 Zoll Display, AMD Ryzen™ 5,7640U Prozessor, 16 GB RAM, 512 GB SSD, AMD Radeon™ 760M, Pure Silver, Windows 11 Home (32 bit)","1019,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift Go (SFG14-42-R6VL)"",
+        ""CPU"": ""AMD Ryzen™ 5,7640U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ 760M""
+    }
+]
+```",ACER,Swift Go (SFG14-42-R6VL),"AMD Ryzen™ 5,7640U",16,512 GB,AMD Radeon™ 760M
+"HP Pavilion 16-ag0357ng, Notebook, mit 16 Zoll Display Touchscreen, AMD Ryzen™ 5,8540U Prozessor, 16 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Silber, Windows 11 Home (64 Bit)","849,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Pavilion 16-ag0357ng"",
+        ""CPU"": ""AMD Ryzen™ 5,8540U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,Pavilion 16-ag0357ng,"AMD Ryzen™ 5,8540U",16,512 GB,AMD Radeon™ Onboard Graphics
+"HP 14-em0355ng, Notebook, mit 14 Zoll Display, ARM Ryzen™ 5,7520U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Silber, Windows 11 Home (64 Bit)","599,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""14-em0355ng"",
+        ""CPU"": ""ARM Ryzen™ 5,7520U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,14-em0355ng,"ARM Ryzen™ 5,7520U",8,512 GB,AMD Radeon™ Onboard Graphics
+"HUAWEI Matebook 14, Notebook, mit 14,2 Zoll Display Touchscreen, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Grün, Windows 11 Home (64 Bit)","1399,00€","```json
+[
+    {
+        ""brand"": ""HUAWEI"",
+        ""model name"": ""Matebook 14"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",HUAWEI,Matebook 14,"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc® GPU
+"HUAWEI MateBook 16s 2023, Intel® Evo™ Plattform, Notebook, mit 16 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ i9,i9-13900H (Evo) Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Space Grey, Windows 11 Home (64 Bit)","1799,00€","```json
+[
+    {
+        ""brand"": ""HUAWEI"",
+        ""model name"": ""MateBook 16s 2023"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H (Evo)"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HUAWEI,MateBook 16s 2023,"Intel® Core™ i9,i9-13900H (Evo)",16,1 TB,Intel® Iris® Xe
+"ACER Swift Go 14 (SFG14-72-70SP) mit Tastaturbeleuchtung, AI-Features, Notebook, mit 14 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ Ultra 7,155H Prozessor, 32 GB RAM, 1 TB SSD, Intel® Arc® GPU, Pure Silver, Windows 11 (64 Bit)","1249,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift Go 14 (SFG14-72-70SP)"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",ACER,Swift Go 14 (SFG14-72-70SP),"Intel® Core™ Ultra 7,155H",32,1 TB,Intel® Arc® GPU
+"ACER Acer Nitro 17 (AN17-41-R3FU) mit 165 Hz Display mit RGB Tastaturbeleuchtung, Gaming Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 7,7840HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Obsidian Black, Windows 11 Home (64 Bit)","1759,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Acer Nitro 17 (AN17-41-R3FU)"",
+        ""CPU"": ""AMD Ryzen™ 7,7840HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ACER,Acer Nitro 17 (AN17-41-R3FU),"AMD Ryzen™ 7,7840HS",16,1 TB,NVIDIA GeForce RTX™ 4070
+"MEDION E15443 (MD62621), Notebook, mit 15,6 Zoll Display, Intel® Core™ Ultra 5,125H Prozessor, 16 GB RAM, 512 GB SSD, Intel® Arc® GPU, Grau, Windows 11 (64 Bit)","699,00€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""E15443"",
+        ""CPU"": ""Intel® Core™ Ultra 5,125H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",MEDION,E15443,"Intel® Core™ Ultra 5,125H",16,512 GB,Intel® Arc® GPU
+"ASUS ROG Strix G18 G814JZR-N6008W, Gaming Notebook, mit 18 Zoll Display, Intel® Core™ i9,i9-14900HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4080, Schwarz/Grau, Windows 11 Home (64 Bit)","3499,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Strix G18 G814JZR-N6008W"",
+        ""CPU"": ""Intel® Core™ i9,i9-14900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4080""
+    }
+]
+```",ASUS,ROG Strix G18 G814JZR-N6008W,"Intel® Core™ i9,i9-14900HX",32,1 TB,NVIDIA GeForce RTX™ 4080
+"ASUS Vivobook Go 15 E1504FA-BQ1101W, Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 3,7320U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ 610M, Schwarz, Windows 11 Home (64 Bit)","469,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook Go 15 E1504FA-BQ1101W"",
+        ""CPU"": ""AMD Ryzen™ 3,7320U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ 610M""
+    }
+]
+```",ASUS,Vivobook Go 15 E1504FA-BQ1101W,"AMD Ryzen™ 3,7320U",8,512 GB,AMD Radeon™ 610M
+"APPLE MacBook Air (2022), MLXW3D/A, Notebook mit 13,6 Zoll Display, Apple M2 Prozessor, 8 GB RAM, 256 GB SSD, M2, Space Grau","1199,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2022)"",
+        ""CPU"": ""Apple M2"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2022),Apple M2,8,256 GB,
+"SAMSUNG Galaxy Book4 Ultra, Notebook, mit 16 Zoll Display Touchscreen, Intel® Evo™ Plattform, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Moonstone Gray, Windows 11 Home (64 Bit)","2799,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book4 Ultra"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",SAMSUNG,Galaxy Book4 Ultra,"Intel® Core™ Ultra 7,155H",16,512 GB,NVIDIA GeForce RTX™ 4050
+"SAMSUNG Galaxy Book4 Ultra, Notebook, mit 16 Zoll Display Touchscreen, Intel® Evo™ Plattform, Intel® Core™ Ultra 9,185H Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Moonstone Gray, Windows 11 Home (64 Bit)","3699,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book4 Ultra"",
+        ""CPU"": ""Intel® Core™ Ultra 9,185H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",SAMSUNG,Galaxy Book4 Ultra,"Intel® Core™ Ultra 9,185H",32,1 TB,NVIDIA GeForce RTX™ 4070
+"SAMSUNG Galaxy Book4 Pro, Notebook, mit 16 Zoll Display Touchscreen, Intel® Evo™ Plattform, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 512 GB SSD, Intel® Arc® GPU, Moonstone Gray, Windows 11 Home (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book4 Pro"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",SAMSUNG,Galaxy Book4 Pro,"Intel® Core™ Ultra 7,155H",16,512 GB,Intel® Arc® GPU
+"SAMSUNG Galaxy Book 4 Edge, Copilot+ PC, mit 16 Zoll Display, Qualcomm Snapdragon X Elite, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Sapphire Blue, Windows 11 Home (64 Bit)","1799,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book 4 Edge, Copilot+ PC"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",SAMSUNG,"Galaxy Book 4 Edge, Copilot+ PC",Qualcomm Snapdragon X Elite,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"APPLE MacBook Pro (2023), Notebook mit 14 Zoll Display, Apple M3 Chip, 8 GB RAM, 10-Core GPU, 1 TB SSD, Space Grau","2229,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2023)"",
+        ""CPU"": ""Apple M3 Chip"",
+        ""RAM"": 8,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""10-Core GPU""
+    }
+]
+```",APPLE,MacBook Pro (2023),Apple M3 Chip,8,1 TB,10-Core GPU
+"APPLE MacBook Air (2024), MRYV3D/A, Notebook, mit 15,3 Zoll Display, M3 Prozessor, 8 GB RAM, 512 GB SSD, Mitternacht, macOS","1829,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,512 GB,
+"HP Laptop 15s-fq5353ng, Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-1235U Prozessor, 8 GB RAM, 512 GB SSD, Intel® Iris® Xe, Natursilber, Windows 11 Home (64 Bit)","599,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Laptop 15s-fq5353ng"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HP,Laptop 15s-fq5353ng,"Intel® Core™ i5,i5-1235U",8,512 GB,Intel® Iris® Xe
+"SAMSUNG Galaxy Book4, Notebook, mit 15,6 Zoll Display, Intel® Core™ 3,100U Prozessor, 8 GB RAM, 256 GB SSD, Intel® Core™ Onboard Graphics, Silver, Windows 11 Pro (64 Bit)","909,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book4"",
+        ""CPU"": ""Intel® Core™ 3,100U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Core™ Onboard Graphics""
+    }
+]
+```",SAMSUNG,Galaxy Book4,"Intel® Core™ 3,100U",8,256 GB,Intel® Core™ Onboard Graphics
+"MICROSOFT Surface Laptop Go 3, Notebook, mit 12,45 Zoll Display Touchscreen, Intel® Core™ i5,i5-1235U Prozessor, 8 GB RAM, 256 GB SSD, Intel® Iris® Xe, Platin, Windows 11 Home (64 Bit)","859,99€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Go 3"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MICROSOFT,Surface Laptop Go 3,"Intel® Core™ i5,i5-1235U",8,256 GB,Intel® Iris® Xe
+"HP - B2B 255 G10, Business Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,7530U Prozessor, 16 GB RAM, 512 GB SSD Radeon™ Onboard Graphics, Silber, Windows 11 Pro (64 Bit)","785,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""B2B 255 G10"",
+        ""CPU"": ""AMD Ryzen™ 5,7530U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Radeon™ Onboard Graphics""
+    }
+]
+```",HP,B2B 255 G10,"AMD Ryzen™ 5,7530U",16,512 GB,Radeon™ Onboard Graphics
+"ASUS ROG Strix G17 G713PV-HX048W, Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 9, 7845HX  Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz/Grau, Windows 11 Home (64 Bit)","1899,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Strix G17 G713PV-HX048W"",
+        ""CPU"": ""AMD Ryzen™ 9, 7845HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ROG Strix G17 G713PV-HX048W,"AMD Ryzen™ 9, 7845HX",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Nitro 5 (AN515-57-57R3), Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-11400H  Prozessor, 8 GB RAM, 512 GB SSD, NVIDIA GeForce® GTX 1650, Schwarz, Windows 11 Home (64 Bit)","899,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Nitro 5 (AN515-57-57R3)"",
+        ""CPU"": ""Intel® Core™ i5-11400H"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce® GTX 1650""
+    }
+]
+```",ACER,Nitro 5 (AN515-57-57R3),Intel® Core™ i5-11400H,8,512 GB,NVIDIA GeForce® GTX 1650
+"HP x360 14a-ca0312ng, Chromebook, mit 14 Zoll Display Touchscreen, Intel® Celeron®,N4120 Prozessor, 4 GB RAM, 64 GB eMMC, Intel® UHD 600, Silber, Google Chrome OS","379,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""x360 14a-ca0312ng"",
+        ""CPU"": ""Intel® Celeron®,N4120"",
+        ""RAM"": 4,
+        ""disk space"": ""64 GB eMMC"",
+        ""GPU"": ""Intel® UHD 600""
+    }
+]
+```",HP,x360 14a-ca0312ng,"Intel® Celeron®,N4120",4,64 GB eMMC,Intel® UHD 600
+"ACER Aspire 3 (A314-23P-R9DS), Notebook, mit 14,0 Zoll Display, AMD Ryzen™ 3,7320U Prozessor, 8 GB RAM, 256 GB SSD, AMD Radeon™ Onboard Graphics, Pure Silver, Windows 11 Home S-Modus (64 Bit)","499,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 3 (A314-23P-R9DS)"",
+        ""CPU"": ""AMD Ryzen™ 3,7320U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",ACER,Aspire 3 (A314-23P-R9DS),"AMD Ryzen™ 3,7320U",8,256 GB,AMD Radeon™ Onboard Graphics
+"APPLE MacBook Pro (2023), Notebook mit 14 Zoll Display, Apple M3 Max Chip, 36 GB RAM, 30-Core GPU, 1 TB SSD, Space Schwarz","3999,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2023)"",
+        ""CPU"": ""Apple M3 Max"",
+        ""RAM"": 36,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""30-Core GPU""
+    }
+]
+```",APPLE,MacBook Pro (2023),Apple M3 Max,36,1 TB,30-Core GPU
+"LENOVO IdeaPad Gaming 3, Gaming-Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,7535HS  Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 2050, Onyx Grey, Windows 11 Home (64 Bit)","879,99€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad Gaming 3"",
+        ""CPU"": ""AMD Ryzen™ 5,7535HS"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 2050""
+    }
+]
+```",LENOVO,IdeaPad Gaming 3,"AMD Ryzen™ 5,7535HS",16,512 GB,NVIDIA GeForce RTX™ 2050
+"HP Victus Gaming Laptop 15-fb0354ng, Gaming Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,5600H Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ RX 6500M, Mica Silver, Windows 11 Home (64 Bit)","899,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Victus Gaming Laptop 15-fb0354ng"",
+        ""CPU"": ""AMD Ryzen™ 5,5600H"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ RX 6500M""
+    }
+]
+```",HP,Victus Gaming Laptop 15-fb0354ng,"AMD Ryzen™ 5,5600H",8,512 GB,AMD Radeon™ RX 6500M
+"ACER Predator Helios Neo 16 (PHN16-71-976B) mit 165 Hz Display mit RGB Tastaturbeleuchtung, Gaming Notebook, mit 16,0 Zoll Display, Intel® Core™ i9,i9-13900HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Obsidian Black, Windows 11 Home (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Predator Helios Neo 16 (PHN16-71-976B)"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ACER,Predator Helios Neo 16 (PHN16-71-976B),"Intel® Core™ i9,i9-13900HX",32,1 TB,NVIDIA GeForce RTX™ 4070
+"ASUS VivoBook 17X (K3704VA-AU068W), Notebook, mit 17,3 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ i9,i9-13900H (Evo) Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Schwarz, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook 17X (K3704VA-AU068W)"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H (Evo)"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ASUS,VivoBook 17X (K3704VA-AU068W),"Intel® Core™ i9,i9-13900H (Evo)",16,1 TB,Intel® Iris® Xe
+"ACER Aspire 3 (A317-53-76NV), Notebook, mit 17,3 Zoll Display, Intel® Core™ i7,i7-1165G7 Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Pure Silver, Windows 11 Home (64 Bit)","819,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 3 (A317-53-76NV)"",
+        ""CPU"": ""Intel® Core™ i7,i7-1165G7"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ACER,Aspire 3 (A317-53-76NV),"Intel® Core™ i7,i7-1165G7",16,512 GB,Intel® Iris® Xe
+"MICROSOFT Surface Pro, Copilot+ PC, 11. Edition, Convertible, mit 13 Zoll Display, Qualcomm Snapdragon X Plus, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Sand, Windows 11 Home (64 Bit)","1449,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Pro, Copilot+ PC, 11. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Plus"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Pro, Copilot+ PC, 11. Edition",Qualcomm Snapdragon X Plus,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"ACER Aspire 5 (A517-53G-76EE) mit Tastaturbeleuchtung, Notebook, mit 17,3 Zoll Display, Intel® Core™ i7,i7-1260P Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 2050, Steel Gray, Windows 11 Home (64 Bit)","1079,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 5 (A517-53G-76EE)"",
+        ""CPU"": ""Intel® Core™ i7,i7-1260P"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 2050""
+    }
+]
+```",ACER,Aspire 5 (A517-53G-76EE),"Intel® Core™ i7,i7-1260P",16,512 GB,NVIDIA GeForce RTX™ 2050
+"LENOVO LOQ 15, Gaming Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 7,7840HS  Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Storm Grey, Windows 11 Home (64 Bit)","1519,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""LOQ 15"",
+        ""CPU"": ""AMD Ryzen™ 7 7840HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",LENOVO,LOQ 15,AMD Ryzen™ 7 7840HS,16,1 TB,NVIDIA GeForce RTX™ 4060
+"MICROSOFT Surface Laptop Go 3, Notebook, mit 12,45 Zoll Display Touchscreen, Intel® Core™ i5,i5-1235U Prozessor, 16 GB RAM, 256 GB SSD, Intel® Iris® Xe, Platin, Windows 11 Home (64 Bit)","1149,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Go 3"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 16,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MICROSOFT,Surface Laptop Go 3,"Intel® Core™ i5,i5-1235U",16,256 GB,Intel® Iris® Xe
+"ASUS ROG Zephyrus Duo 16 GX650PZ-NM030W, Gaming Notebook, mit 16 Zoll Display, AMD Ryzen™ 9,7945HX  Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4080, Schwarz, Windows 11 Home (64 Bit)","4299,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Zephyrus Duo 16 GX650PZ-NM030W"",
+        ""CPU"": ""AMD Ryzen™ 9,7945HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4080""
+    }
+]
+```",ASUS,ROG Zephyrus Duo 16 GX650PZ-NM030W,"AMD Ryzen™ 9,7945HX",32,1 TB,NVIDIA GeForce RTX™ 4080
+"MICROSOFT Surface Laptop, Copilot+ PC, 7. Edition, Copilot+ PC, mit 15 Zoll Display Touchscreen, Qualcomm Snapdragon X Elite, 16 GB RAM, 1 TB SSD, Qualcomm Adreno™ Onboard Graphics, Graphit, Windows 11 Home (64 Bit)","2039,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop, Copilot+ PC, 7. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Laptop, Copilot+ PC, 7. Edition",Qualcomm Snapdragon X Elite,16,1 TB,Qualcomm Adreno™ Onboard Graphics
+"MICROSOFT Surface Laptop Go 3, Notebook, mit 12,45 Zoll Display Touchscreen, Intel® Core™ i5,i5-1235U Prozessor, 8 GB RAM, 256 GB SSD, Intel® Iris® Xe, Salbei, Windows 11 Home (64 Bit)","859,99€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Go 3"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MICROSOFT,Surface Laptop Go 3,"Intel® Core™ i5,i5-1235U",8,256 GB,Intel® Iris® Xe
+"HUAWEI Matebook D15 2022, Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-1155G7 Prozessor, 8 GB RAM, 512 GB SSD, Intel® Iris® X, Mystic Silver, Windows 11 Home (64 Bit)","799,00€","```json
+[
+    {
+        ""brand"": ""HUAWEI"",
+        ""model name"": ""Matebook D15 2022"",
+        ""CPU"": ""Intel® Core™ i5,i5-1155G7"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® X""
+    }
+]
+```",HUAWEI,Matebook D15 2022,"Intel® Core™ i5,i5-1155G7",8,512 GB,Intel® Iris® X
+"APPLE MacBook Pro (2023), Notebook mit 16 Zoll Display, Apple M3 Pro Chip, 18 GB RAM, 18-Core GPU, 512 GB SSD, Silber","2999,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2023)"",
+        ""CPU"": ""Apple M3 Pro"",
+        ""RAM"": 18,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""18-Core GPU""
+    }
+]
+```",APPLE,MacBook Pro (2023),Apple M3 Pro,18,512 GB,18-Core GPU
+"ASUS VivoBook 17 (M1702QA-AU108W), Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 5,5600H Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Silber, Windows 11 Home (64 Bit)","649,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook 17 (M1702QA-AU108W)"",
+        ""CPU"": ""AMD Ryzen™ 5,5600H"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",ASUS,VivoBook 17 (M1702QA-AU108W),"AMD Ryzen™ 5,5600H",8,512 GB,AMD Radeon™ Onboard Graphics
+"LENOVO Yoga Slim 7x, Copilot+ PC, Copilot+ PC, mit 14,5 Zoll Display, Qualcomm Snapdragon X Elite,X1E78100 Prozessor, 16 GB RAM, 1 TB SSD, Qualcomm Adreno™ Onboard Graphics, Cosmic Blue, Windows 11 Home (64 Bit)","1499,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""Yoga Slim 7x"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite,X1E78100"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",LENOVO,Yoga Slim 7x,"Qualcomm Snapdragon X Elite,X1E78100",16,1 TB,Qualcomm Adreno™ Onboard Graphics
+"HUAWEI Matebook D16 2024, Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-13900H Prozessor, 16 GB RAM, 1 TB SSD Iris® Xe, Space Gray, Windows 11 Home (64 Bit)","1399,00€","```json
+[
+    {
+        ""brand"": ""HUAWEI"",
+        ""model name"": ""Matebook D16 2024"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Iris® Xe""
+    }
+]
+```",HUAWEI,Matebook D16 2024,"Intel® Core™ i9,i9-13900H",16,1 TB,Iris® Xe
+"APPLE MacBook Air (2024), MRYR3D/A, Notebook, mit 15,3 Zoll Display, M3 Prozessor, 8 GB RAM, 256 GB SSD, Polarstern, macOS","1599,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,256 GB,
+"PEAQ Classic PNB C150V-2G428D, Notebook, mit 15,6 Zoll Display, Intel® Pentium® Silver,N5030 Prozessor, 4 GB RAM, 128 GB SSD, Intel® UHD 605, Grau, Windows 10 Pro (64 Bit)","279,00€","```json
+[
+    {
+        ""brand"": ""PEAQ"",
+        ""model name"": ""Classic PNB C150V-2G428D"",
+        ""CPU"": ""Intel® Pentium® Silver N5030"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB"",
+        ""GPU"": ""Intel® UHD 605""
+    }
+]
+```",PEAQ,Classic PNB C150V-2G428D,Intel® Pentium® Silver N5030,4,128 GB,Intel® UHD 605
+"LENOVO IdeaPad 3i, Notebook, mit 15,6 Zoll Display, Intel® Core™ i3,i3-1215U Prozessor, 8 GB RAM, 512 GB SSD, Intel® UHD Graphics, Arctic Grey, Windows 11 Home (64 Bit)","449,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 3i"",
+        ""CPU"": ""Intel® Core™ i3-1215U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",LENOVO,IdeaPad 3i,Intel® Core™ i3-1215U,8,512 GB,Intel® UHD Graphics
+"GIGABYTE AORUS 16X, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i7,i7-13650HX  Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Midnight Grey, Windows 11 (64 Bit)","1399,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""AORUS 16X"",
+        ""CPU"": ""Intel® Core™ i7-13650HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",GIGABYTE,AORUS 16X,Intel® Core™ i7-13650HX,16,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Nitro 5 (AN515-57-57SB) mit 144 Hz Display & RGB Tastaturbeleuchtung, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-11400H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 3060, Schwarz/Rot, Windows 11 Home (64 Bit)","1199,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Nitro 5 (AN515-57-57SB)"",
+        ""CPU"": ""Intel® Core™ i5,i5-11400H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3060""
+    }
+]
+```",ACER,Nitro 5 (AN515-57-57SB),"Intel® Core™ i5,i5-11400H",16,512 GB,NVIDIA GeForce RTX™ 3060
+"MICROSOFT Surface Laptop, Copilot+ PC, 7. Edition, Copilot+ PC, mit 15 Zoll Display Touchscreen, Qualcomm Snapdragon X Elite, 16 GB RAM, 1 TB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","2029,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop, Copilot+ PC, 7. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Laptop, Copilot+ PC, 7. Edition",Qualcomm Snapdragon X Elite,16,1 TB,Qualcomm Adreno™ Onboard Graphics
+"ASUS ROG Flow X13 GV302XI-MU008W, Convertible, mit 13,4 Zoll Display Touchscreen, AMD Ryzen™ 9,7940HS Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Off Black, Windows 11 Home (64 Bit)","2389,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Flow X13 GV302XI-MU008W"",
+        ""CPU"": ""AMD Ryzen™ 9 7940HS"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ASUS,ROG Flow X13 GV302XI-MU008W,AMD Ryzen™ 9 7940HS,32,1 TB,NVIDIA GeForce RTX™ 4070
+"MSI Prestige 16 AI Studio B1VFG-009, Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 9,Ultra 9 185H Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Stellar Gray, Windows 11 Pro (64 Bit)","2549,00€","```json
+[
+    {
+        ""brand"": ""MSI"",
+        ""model name"": ""Prestige 16 AI Studio B1VFG-009"",
+        ""CPU"": ""Intel® Core™ Ultra 9 185H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",MSI,Prestige 16 AI Studio B1VFG-009,Intel® Core™ Ultra 9 185H,32,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Chromebook Spin 514 (CP514-1H-R9PJ), Chromebook, mit 14 Zoll Display Touchscreen, AMD Athlon™ Silver,3050C Prozessor, 4 GB RAM, 64 GB eMMC, AMD Radeon™ Onboard Graphics, Silber, Google Chrome OS","549,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook Spin 514 (CP514-1H-R9PJ)"",
+        ""CPU"": ""AMD Athlon™ Silver,3050C"",
+        ""RAM"": 4,
+        ""disk space"": ""64 GB eMMC"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",ACER,Chromebook Spin 514 (CP514-1H-R9PJ),"AMD Athlon™ Silver,3050C",4,64 GB eMMC,AMD Radeon™ Onboard Graphics
+"MICROSOFT Surface Laptop Studio 2, Notebook, mit 14,4 Zoll Display Touchscreen, Intel® Core™ i7,i7-13700H  Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Platin, Windows 11 Home (64 Bit)","2719,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Studio 2"",
+        ""CPU"": ""Intel® Core™ i7,i7-13700H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",MICROSOFT,Surface Laptop Studio 2,"Intel® Core™ i7,i7-13700H",16,512 GB,NVIDIA GeForce RTX™ 4050
+"ASUS ROG Zephyrus G16 GU605MV-QP101W, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz/Grau, Windows 11 Home (64 Bit)","2199,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Zephyrus G16 GU605MV-QP101W"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ROG Zephyrus G16 GU605MV-QP101W,"Intel® Core™ Ultra 7,155H",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Nitro 5 (AN517-55-9931) mit 144 Hz Display & RGB Tastaturbeleuchtung, Gaming Notebook, mit 17,3 Zoll Display, Intel® Core™ i9,i9-12900H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz, Windows 11 Home (64 Bit)","1639,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Nitro 5 (AN517-55-9931)"",
+        ""CPU"": ""Intel® Core™ i9,i9-12900H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ACER,Nitro 5 (AN517-55-9931),"Intel® Core™ i9,i9-12900H",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ASUS VivoBook Pro 16 OLED K6602VV-MX011W, Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-13900H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Blau, Windows 11 Home (64 Bit)","2299,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook Pro 16 OLED K6602VV-MX011W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,VivoBook Pro 16 OLED K6602VV-MX011W,"Intel® Core™ i9,i9-13900H",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ASUS ROG Strix SCAR 17 G733PZ-LL076W, Gaming Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 9,7945HX  Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4080, Schwarz, Windows 11 Home (64 Bit)","3399,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Strix SCAR 17 G733PZ-LL076W"",
+        ""CPU"": ""AMD Ryzen™ 9,7945HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4080""
+    }
+]
+```",ASUS,ROG Strix SCAR 17 G733PZ-LL076W,"AMD Ryzen™ 9,7945HX",32,1 TB,NVIDIA GeForce RTX™ 4080
+"ASUS ROG Flow X13 GV302XV-MU001W, Convertible, mit 13,4 Zoll Display Touchscreen, AMD Ryzen™ 9,7940HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz, Windows 11 Home (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Flow X13 GV302XV-MU001W"",
+        ""CPU"": ""AMD Ryzen™ 9 7940HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ROG Flow X13 GV302XV-MU001W,AMD Ryzen™ 9 7940HS,16,1 TB,NVIDIA GeForce RTX™ 4060
+"HP 15s-eq2356ng, Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,5500U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Silber, Windows 11 Home (64 Bit)","499,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""15s-eq2356ng"",
+        ""CPU"": ""AMD Ryzen™ 5,5500U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,15s-eq2356ng,"AMD Ryzen™ 5,5500U",8,512 GB,AMD Radeon™ Onboard Graphics
+"ACER Chromebook 317 (CB317-1H-C680), Chromebook, mit 17,3 Zoll Display, Intel® Celeron®,N5100 Prozessor, 8 GB RAM, 128 GB eMMC, Intel® UHD Graphics, Sparkly Silver, Google Chrome OS","479,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook 317 (CB317-1H-C680)"",
+        ""CPU"": ""Intel® Celeron®,N5100"",
+        ""RAM"": 8,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Chromebook 317 (CB317-1H-C680),"Intel® Celeron®,N5100",8,128 GB eMMC,Intel® UHD Graphics
+"HP Spectre x360 16-f2375ng, Convertible, mit 16 Zoll Display Touchscreen, Intel® Core™ i7 i7-1360P Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc™ 3 A370M, Schwarz, Windows 11 Home (64 Bit)","2099,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Spectre x360 16-f2375ng"",
+        ""CPU"": ""Intel® Core™ i7 i7-1360P"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc™ 3 A370M""
+    }
+]
+```",HP,Spectre x360 16-f2375ng,Intel® Core™ i7 i7-1360P,16,1 TB,Intel® Arc™ 3 A370M
+"ASUS ROG Flow X13 GV302XU-MU001W, Convertible, mit 13,4 Zoll Display Touchscreen, AMD Ryzen™ 9,7940HS  Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4050, Schwarz, Windows 11 Home (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Flow X13 GV302XU-MU001W"",
+        ""CPU"": ""AMD Ryzen™ 9 7940HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",ASUS,ROG Flow X13 GV302XU-MU001W,AMD Ryzen™ 9 7940HS,16,1 TB,NVIDIA GeForce RTX™ 4050
+"HP Pavilion 16-ag0375ng, Notebook, mit 16 Zoll Display Touchscreen, AMD Ryzen™ 7,8840U Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon™ 780M, Blau, Windows 11 Home (64 Bit)","999,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Pavilion 16-ag0375ng"",
+        ""CPU"": ""AMD Ryzen™ 7 8840U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""AMD Radeon™ 780M""
+    }
+]
+```",HP,Pavilion 16-ag0375ng,AMD Ryzen™ 7 8840U,16,1 TB,AMD Radeon™ 780M
+"HP OmniBook X 14-FE0370NG, Copilot+ PC, Copilot+ PC, mit 14 Zoll Display Touchscreen, Qualcomm Snapdragon X Elite,X1E-78-100 (12C) Prozessor, 16 GB RAM, 1 TB SSD, Qualcomm Adreno™ Onboard Graphics, Meteor Silver Aluminium, Windows 11 Home (64 Bit)","1299,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OmniBook X 14-FE0370NG"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite,X1E-78-100 (12C)"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",HP,OmniBook X 14-FE0370NG,"Qualcomm Snapdragon X Elite,X1E-78-100 (12C)",16,1 TB,Qualcomm Adreno™ Onboard Graphics
+"MEDION ERAZER Defender P50 (MD62646) mit 165 Hz QHD Display und RGB Tastatur, Gaming Laptop, mit 17,3 Zoll Display, Intel® Core™ i5,13420H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz, Windows 11 Home (64 Bit)","1399,00€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""ERAZER Defender P50"",
+        ""CPU"": ""Intel® Core™ i5,13420H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",MEDION,ERAZER Defender P50,"Intel® Core™ i5,13420H",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ASUS ROG Strix G18 G814JU-N5008W, Notebook, mit 18 Zoll Display, Intel® Core™ i7,i7-13650HX Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4050, Schwarz/Grau, Windows 11 Home (64 Bit)","1899,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Strix G18 G814JU-N5008W"",
+        ""CPU"": ""Intel® Core™ i7,i7-13650HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",ASUS,ROG Strix G18 G814JU-N5008W,"Intel® Core™ i7,i7-13650HX",16,1 TB,NVIDIA GeForce RTX™ 4050
+"ASUS Vibe CX55 Flip CX5501FEA-NA0275, Gaming Chromebook, mit 15,6 Zoll Display Touchscreen, Intel® Core™ i3,i3-1115G4 Prozessor, 8 GB RAM, 128 GB SSD, Intel® UHD Graphics, Grau, Google Chrome OS","699,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vibe CX55 Flip CX5501FEA-NA0275"",
+        ""CPU"": ""Intel® Core™ i3-1115G4"",
+        ""RAM"": 8,
+        ""disk space"": ""128 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ASUS,Vibe CX55 Flip CX5501FEA-NA0275,Intel® Core™ i3-1115G4,8,128 GB,Intel® UHD Graphics
+"RAZER Blade 16 (2024) mit OLED Display, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i9, i9-14900HX Prozessor, 32 GB RAM, 2 TB SSD, NVIDIA GeForce RTX™ 4090, Schwarz, Windows 11 Home (32 bit)","4849,00€","```json
+[
+    {
+        ""brand"": ""RAZER"",
+        ""model name"": ""Blade 16 (2024)"",
+        ""CPU"": ""Intel® Core™ i9, i9-14900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""2 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4090""
+    }
+]
+```",RAZER,Blade 16 (2024),"Intel® Core™ i9, i9-14900HX",32,2 TB,NVIDIA GeForce RTX™ 4090
+"RAZER Blade 15 CH9-NT, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i7,i7-13800H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","3199,99€","```json
+[
+    {
+        ""brand"": ""RAZER"",
+        ""model name"": ""Blade 15 CH9-NT"",
+        ""CPU"": ""Intel® Core™ i7,i7-13800H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",RAZER,Blade 15 CH9-NT,"Intel® Core™ i7,i7-13800H",16,1 TB,NVIDIA GeForce RTX™ 4070
+"LENOVO IdeaPad 5i, Chromebook Plus, mit 16 Zoll Display, Intel® Core™ i3,1215U Prozessor, 8 GB RAM, 256 GB SSD, Intel® UHD Graphics, Stone Blue, Google Chrome OS","669,99€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 5i, Chromebook Plus"",
+        ""CPU"": ""Intel® Core™ i3-1215U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",LENOVO,"IdeaPad 5i, Chromebook Plus",Intel® Core™ i3-1215U,8,256 GB,Intel® UHD Graphics
+"MSI STEALTH 15, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i7,i7-13620H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Core Black, Windows 11 Home (64 Bit)","2349,00€","```json
+[
+    {
+        ""brand"": ""MSI"",
+        ""model name"": ""STEALTH 15"",
+        ""CPU"": ""Intel® Core™ i7,i7-13620H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",MSI,STEALTH 15,"Intel® Core™ i7,i7-13620H",16,1 TB,NVIDIA GeForce RTX™ 4060
+"HP Pavilion x360 14-ek1375ng, Convertible, mit 14 Zoll Display Touchscreen, Intel® Core™ i7 i7-1355U Prozessor, 16 GB RAM, 1 TB SSD, Intel® UHD Graphics, Silber, Windows 11 Home (64 Bit)","999,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Pavilion x360 14-ek1375ng"",
+        ""CPU"": ""Intel® Core™ i7 i7-1355U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",HP,Pavilion x360 14-ek1375ng,Intel® Core™ i7 i7-1355U,16,1 TB,Intel® UHD Graphics
+"LENOVO Legion 9i, Gaming-Notebook, mit 16 Zoll Display, Intel® Core™ i9,14900HX Prozessor, 64 GB RAM, 2 TB SSD, NVIDIA GeForce RTX™ 4090, Carbon Black, Windows 11 Pro (64 Bit)","4969,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""Legion 9i"",
+        ""CPU"": ""Intel® Core™ i9-14900HX"",
+        ""RAM"": 64,
+        ""disk space"": ""2 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4090""
+    }
+]
+```",LENOVO,Legion 9i,Intel® Core™ i9-14900HX,64,2 TB,NVIDIA GeForce RTX™ 4090
+"ASUS Zenbook S 13 OLED UX5304MA-NQ041W, Notebook, mit 13,3 Zoll Display, Intel® Core™ Ultra 7,155U Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Basalt Grey, Windows 11 Home (64 Bit)","1599,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Zenbook S 13 OLED UX5304MA-NQ041W"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ASUS,Zenbook S 13 OLED UX5304MA-NQ041W,"Intel® Core™ Ultra 7,155U",16,1 TB,Intel® Iris® Xe
+"SAMSUNG Galaxy Book4 Pro, Notebook, mit 14 Zoll Display Touchscreen, Intel® Core™ Ultra 7,155H Prozessor, 32 GB RAM, 512 GB SSD, Intel® Arc® GPU, Platinum Silver, Windows 11 Pro (64 Bit)","2199,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book4 Pro"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 32,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",SAMSUNG,Galaxy Book4 Pro,"Intel® Core™ Ultra 7,155H",32,512 GB,Intel® Arc® GPU
+"ASUS VivoBook 16X OLED M3604YA-L2035W, Notebook, mit 16 Zoll Display, AMD Ryzen™ 7,7730U Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon™ Onboard Graphics, Silber, Windows 11 Home (64 Bit)","1399,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook 16X OLED M3604YA-L2035W"",
+        ""CPU"": ""AMD Ryzen™ 7 7730U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",ASUS,VivoBook 16X OLED M3604YA-L2035W,AMD Ryzen™ 7 7730U,16,1 TB,AMD Radeon™ Onboard Graphics
+"HP Victus Gaming 16-r1354ng, Gaming Notebook, mit 16,1 Zoll Display, Intel® Core™ i5,i5-14500HX Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Silber, Windows 11 Home (64 Bit)","1299,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Victus Gaming 16-r1354ng"",
+        ""CPU"": ""Intel® Core™ i5-14500HX"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",HP,Victus Gaming 16-r1354ng,Intel® Core™ i5-14500HX,16,512 GB,NVIDIA GeForce RTX™ 4050
+"LENOVO LOQ 15IRX9, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i7,13650HX Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Luna Grey, Windows 11 Home (64 Bit)","1499,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""LOQ 15IRX9"",
+        ""CPU"": ""Intel® Core™ i7,13650HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",LENOVO,LOQ 15IRX9,"Intel® Core™ i7,13650HX",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ASUS VivoBook Pro 15 OLED N6506MU-MA051X, Notebook, mit 15,6 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4050, Cool Silver, Windows 11 Pro (64 Bit)","1899,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook Pro 15 OLED N6506MU-MA051X"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",ASUS,VivoBook Pro 15 OLED N6506MU-MA051X,"Intel® Core™ Ultra 7,155H",16,1 TB,NVIDIA GeForce RTX™ 4050
+"ACER Swift Go (SFG16-71-763T) mit OLED-Display, Notebook, mit 16,0 Zoll Display, Intel® Core™ i7,i7-1355U Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Pure Silver, Windows 11 Home (64 Bit)","1329,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift Go (SFG16-71-763T)"",
+        ""CPU"": ""Intel® Core™ i7,i7-1355U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ACER,Swift Go (SFG16-71-763T),"Intel® Core™ i7,i7-1355U",16,1 TB,Intel® Iris® Xe
+"MICROSOFT Surface Laptop Studio 2, Notebook, mit 14,4 Zoll Display Touchscreen, Intel® Core™ i7,i7-13700H  Prozessor, 32 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ A2000, Platin, Windows 11 Home (64 Bit)","4159,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Studio 2"",
+        ""CPU"": ""Intel® Core™ i7,i7-13700H"",
+        ""RAM"": 32,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ A2000""
+    }
+]
+```",MICROSOFT,Surface Laptop Studio 2,"Intel® Core™ i7,i7-13700H",32,512 GB,NVIDIA GeForce RTX™ A2000
+"LENOVO IdeaPad Gaming 3, Gaming-Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,7535HS  Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Onyx Grey, Windows 11 Home (64 Bit)","1169,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad Gaming 3"",
+        ""CPU"": ""AMD Ryzen™ 5,7535HS"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",LENOVO,IdeaPad Gaming 3,"AMD Ryzen™ 5,7535HS",16,512 GB,NVIDIA GeForce RTX™ 4050
+"ASUS VivoBook S 15 OLED K5504VN-MA045W, Notebook, mit 15,6 Zoll Display, Intel® Core™ i9,i9-13900H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc™ 3 A350M, Schwarz, Windows 11 Home (64 Bit)","1799,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook S 15 OLED K5504VN-MA045W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc™ 3 A350M""
+    }
+]
+```",ASUS,VivoBook S 15 OLED K5504VN-MA045W,"Intel® Core™ i9,i9-13900H",16,1 TB,Intel® Arc™ 3 A350M
+"ACER Aspire 3 (A315-24P-R47H), Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,7520U  Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Pure Silver, Windows 11 Home (64 Bit)","579,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 3 (A315-24P-R47H)"",
+        ""CPU"": ""AMD Ryzen™ 5,7520U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",ACER,Aspire 3 (A315-24P-R47H),"AMD Ryzen™ 5,7520U",8,512 GB,AMD Radeon™ Onboard Graphics
+"ACER 514 (CB514-2H-K7VE) mit Tastaturbeleuchtung, Chromebook, mit 14 Zoll Display, MediaTek MediaTek MT,ARM Cortex A76/A55 Prozessor, 4 GB RAM, 64 GB eMMC, Mediatek Mali-G57, Silber, Google Chrome OS","459,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""514 (CB514-2H-K7VE)"",
+        ""CPU"": ""MediaTek MT,ARM Cortex A76/A55"",
+        ""RAM"": 4,
+        ""disk space"": ""64 GB eMMC"",
+        ""GPU"": ""Mediatek Mali-G57""
+    }
+]
+```",ACER,514 (CB514-2H-K7VE),"MediaTek MT,ARM Cortex A76/A55",4,64 GB eMMC,Mediatek Mali-G57
+"ACER Acer Swift X (SFX14-71G-55FR) mit Tastaturbeleuchtung, Notebook, mit 14,5 Zoll Display, Intel® Core™ i5,i5-13500H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 3050, Steel Grey, Windows 11 Home (64 Bit)","1339,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift X (SFX14-71G-55FR)"",
+        ""CPU"": ""Intel® Core™ i5,i5-13500H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3050""
+    }
+]
+```",ACER,Swift X (SFX14-71G-55FR),"Intel® Core™ i5,i5-13500H",16,512 GB,NVIDIA GeForce RTX™ 3050
+"HP - B2B 255 G10, Business Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,7530U Prozessor, 8 GB RAM, 256 GB SSD, AMD Radeon™ Onboard Graphics, Silber, Windows 11 Pro (64 Bit)","749,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""B2B 255 G10"",
+        ""CPU"": ""AMD Ryzen™ 5,7530U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,B2B 255 G10,"AMD Ryzen™ 5,7530U",8,256 GB,AMD Radeon™ Onboard Graphics
+"MEDION AKOYA® E15309 (MD64099), Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 7,5700U Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon™ Onboard Graphics, Titan, Windows 11 Home S-Modus (64 Bit)","599,00€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""AKOYA® E15309 (MD64099)"",
+        ""CPU"": ""AMD Ryzen™ 7 5700U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",MEDION,AKOYA® E15309 (MD64099),AMD Ryzen™ 7 5700U,16,1 TB,AMD Radeon™ Onboard Graphics
+"HP Victus Gaming 16-s1375ng, Gaming Notebook, mit 16,1 Zoll Display, AMD Ryzen™ 7,8840H Prozessor, 32 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","1798,99€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Victus Gaming 16-s1375ng"",
+        ""CPU"": ""AMD Ryzen™ 7,8840H"",
+        ""RAM"": 32,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",HP,Victus Gaming 16-s1375ng,"AMD Ryzen™ 7,8840H",32,512 GB,NVIDIA GeForce RTX™ 4070
+"HP Victus Gaming 16-s0377ng, Gaming Notebook, mit 16,1 Zoll Display, AMD Ryzen™ 7,7840HS Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","1599,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Victus Gaming 16-s0377ng"",
+        ""CPU"": ""AMD Ryzen™ 7 7840HS"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",HP,Victus Gaming 16-s0377ng,AMD Ryzen™ 7 7840HS,16,512 GB,NVIDIA GeForce RTX™ 4070
+"RAZER Blade 16, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-13950HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4080, Mercury, Windows 11 Home (64 Bit)","4349,99€","```json
+[
+    {
+        ""brand"": ""RAZER"",
+        ""model name"": ""Blade 16"",
+        ""CPU"": ""Intel® Core™ i9,i9-13950HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4080""
+    }
+]
+```",RAZER,Blade 16,"Intel® Core™ i9,i9-13950HX",32,1 TB,NVIDIA GeForce RTX™ 4080
+"APPLE MacBook Air (2023), MQKU3D/A, Notebook mit 15.3 Zoll Display, Apple M2 Prozessor, 8 GB RAM, 256 GB SSD, M 210-Core GPU, Polarstern","1599,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2023)"",
+        ""CPU"": ""Apple M2"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""M 210-Core GPU""
+    }
+]
+```",APPLE,MacBook Air (2023),Apple M2,8,256 GB,M 210-Core GPU
+"HP 15a-na0312ng, Chromebook, mit 15,6 Zoll Display, Intel® Celeron®,N4500 Prozessor, 4 GB RAM, 128 GB eMMC, Intel® UHD Graphics, Silber, Google Chrome OS","349,99€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""15a-na0312ng"",
+        ""CPU"": ""Intel® Celeron® N4500"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",HP,15a-na0312ng,Intel® Celeron® N4500,4,128 GB eMMC,Intel® UHD Graphics
+"GIGABYTE AERO 14, Creator Notebook, mit 14 Zoll Display, Intel® Core™ i7,i7 -13620H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Twilight Silver, Windows 11 (64 Bit)","1599,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""AERO 14, Creator Notebook"",
+        ""CPU"": ""Intel® Core™ i7-13620H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",GIGABYTE,"AERO 14, Creator Notebook",Intel® Core™ i7-13620H,16,512 GB,NVIDIA GeForce RTX™ 4050
+"MEDION AKOYA® E15415, Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-10210U Prozessor, 8 GB RAM, 512 GB SSD, Intel® UHD Graphics, Grau, Windows 11 Home (64 Bit)","549,99€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""AKOYA® E15415"",
+        ""CPU"": ""Intel® Core™ i5-10210U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",MEDION,AKOYA® E15415,Intel® Core™ i5-10210U,8,512 GB,Intel® UHD Graphics
+"APPLE MacBook Air (2023), MQKP3D/A, Notebook mit 15.3 Zoll Display, Apple M2 Prozessor, 8 GB RAM, 256 GB SSD, M2 10-Core GPU, Space Grau","1599,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2023)"",
+        ""CPU"": ""Apple M2"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""M2 10-Core GPU""
+    }
+]
+```",APPLE,MacBook Air (2023),Apple M2,8,256 GB,M2 10-Core GPU
+"LENOVO IdeaPad 1i, Inkl. 1 Jahr Microsoft 365 Single, Notebook, mit 11,6 Zoll Display, Intel® Celeron®,N4020 Prozessor, 4 GB RAM, 64 GB eMMC, Intel® UHD 600, Eisblau, Windows 11 Home S-Modus (64 Bit)","369,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 1i"",
+        ""CPU"": ""Intel® Celeron®,N4020"",
+        ""RAM"": 4,
+        ""disk space"": ""64 GB eMMC"",
+        ""GPU"": ""Intel® UHD 600""
+    }
+]
+```",LENOVO,IdeaPad 1i,"Intel® Celeron®,N4020",4,64 GB eMMC,Intel® UHD 600
+"HP 15-fc0313ng, Notebook, mit 15,6 Zoll Display, AMD Athlon™ Gold,7220U Prozessor, 8 GB RAM, 256 GB SSD, AMD Radeon™ Onboard Graphics, Schwarz, Windows 11 Home (64 Bit)","499,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""15-fc0313ng"",
+        ""CPU"": ""AMD Athlon™ Gold 7220U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,15-fc0313ng,AMD Athlon™ Gold 7220U,8,256 GB,AMD Radeon™ Onboard Graphics
+"HP Victus Gaming Laptop 16-r0354ng, Notebook, mit 16,1 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ i5,i5-13500H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Schwarz, Windows 11 Home (64 Bit)","1249,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Victus Gaming Laptop 16-r0354ng"",
+        ""CPU"": ""Intel® Core™ i5-13500H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",HP,Victus Gaming Laptop 16-r0354ng,Intel® Core™ i5-13500H,16,512 GB,NVIDIA GeForce RTX™ 4050
+"ACER Chromebook 314 (CB314-4H-345E), Chromebook, mit 14 Zoll Display, Intel® Core™ i3,i3-N305  Prozessor, 4 GB RAM, 128 GB eMMC, Intel® UHD Graphics, Pure Silver, Google Chrome OS","469,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook 314 (CB314-4H-345E)"",
+        ""CPU"": ""Intel® Core™ i3,i3-N305"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Chromebook 314 (CB314-4H-345E),"Intel® Core™ i3,i3-N305",4,128 GB eMMC,Intel® UHD Graphics
+"ACER Aspire Vero (AV15-53P-74FH) mit Tastaturbeleuchtung, Notebook, mit 15,6 Zoll Display, Intel® Core™ i7,i7-1355U  Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Cypress Green, Windows 11 Home (64 Bit)","849,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire Vero (AV15-53P-74FH)"",
+        ""CPU"": ""Intel® Core™ i7,i7-1355U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ACER,Aspire Vero (AV15-53P-74FH),"Intel® Core™ i7,i7-1355U",16,1 TB,Intel® Iris® Xe
+"HP Victus Gaming 16-r1356ng, Gaming Notebook, mit 16,1 Zoll Display, Intel® Core™ i5,i5-14500HX Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4060, Schwarz, Windows 11 Home (64 Bit)","1399,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Victus Gaming 16-r1356ng"",
+        ""CPU"": ""Intel® Core™ i5-14500HX"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",HP,Victus Gaming 16-r1356ng,Intel® Core™ i5-14500HX,16,512 GB,NVIDIA GeForce RTX™ 4060
+"HP OMEN by HP 16-wf1377ng, Gaming Notebook, mit 16,1 Zoll Display, Intel® Core™ i7,i7-14700HX Prozessor, 32 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OMEN by HP 16-wf1377ng"",
+        ""CPU"": ""Intel® Core™ i7,i7-14700HX"",
+        ""RAM"": 32,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",HP,OMEN by HP 16-wf1377ng,"Intel® Core™ i7,i7-14700HX",32,512 GB,NVIDIA GeForce RTX™ 4070
+"HP ENVY 17-cw0352ng, Notebook, mit 17,3 Zoll Display, Intel® Core™ i5,i5-13500H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""ENVY 17-cw0352ng"",
+        ""CPU"": ""Intel® Core™ i5,i5-13500H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HP,ENVY 17-cw0352ng,"Intel® Core™ i5,i5-13500H",16,1 TB,Intel® Iris® Xe
+"HP - B2B 470 G10, Business Notebook, mit 17,3 Zoll Display, Intel® Core™ i7,i7-1355U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Asteroid Silver, Windows 11 Pro (64 Bit)","1213,80€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""B2B 470 G10"",
+        ""CPU"": ""Intel® Core™ i7,i7-1355U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HP,B2B 470 G10,"Intel® Core™ i7,i7-1355U",16,512 GB,Intel® Iris® Xe
+"ASUS VivoBook 16X K3604VA-MB023W, Notebook, mit 16 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ i5,i5-1340P (Evo) Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook 16X K3604VA-MB023W"",
+        ""CPU"": ""Intel® Core™ i5,i5-1340P (Evo)"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ASUS,VivoBook 16X K3604VA-MB023W,"Intel® Core™ i5,i5-1340P (Evo)",16,1 TB,Intel® Iris® Xe
+"MSI RAIDER GE68 HX 13VG-037 I7-13 RTX4070, Gaming-Laptop, mit 16,0 Zoll Display, Intel® Core™ i7,i7-13700HX Prozessor, 32 GB RAM, 2 TB SSD, NVIDIA GeForce RTX™ 4070, Core Black, Windows 11 Home (64 Bit)","3499,00€","```json
+[
+    {
+        ""brand"": ""MSI"",
+        ""model name"": ""RAIDER GE68 HX 13VG-037"",
+        ""CPU"": ""Intel® Core™ i7-13700HX"",
+        ""RAM"": 32,
+        ""disk space"": ""2 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",MSI,RAIDER GE68 HX 13VG-037,Intel® Core™ i7-13700HX,32,2 TB,NVIDIA GeForce RTX™ 4070
+"LENOVO IdeaPad 5 Pro, Notebook, mit 16 Zoll Display, AMD Ryzen™ 7,6800HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 3050 Ti, Storm Grey, Windows 11 Home (64 Bit)","1499,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 5 Pro"",
+        ""CPU"": ""AMD Ryzen™ 7,6800HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3050 Ti""
+    }
+]
+```",LENOVO,IdeaPad 5 Pro,"AMD Ryzen™ 7,6800HS",16,1 TB,NVIDIA GeForce RTX™ 3050 Ti
+"ASUS ProArt StudioBook 16 OLED H7604JI-MY008W, Creator Notebook, mit 16 Zoll Display Touchscreen, Intel® Core™ i9,i9-13980HX Prozessor, 32 GB RAM, 2 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","3499,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ProArt StudioBook 16 OLED H7604JI-MY008W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13980HX"",
+        ""RAM"": 32,
+        ""disk space"": ""2 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ASUS,ProArt StudioBook 16 OLED H7604JI-MY008W,"Intel® Core™ i9,i9-13980HX",32,2 TB,NVIDIA GeForce RTX™ 4070
+"ASUS ZenBook Pro 16X OLED UX7602BZ-MY005W, Creator Notebook, mit 16 Zoll Display Touchscreen, Intel® Core™ i9,i9-13900H Prozessor, 32 GB RAM, 2 TB SSD, NVIDIA GeForce RTX™ 4080, Tech Black, Windows 11 Home (64 Bit)","4499,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ZenBook Pro 16X OLED UX7602BZ-MY005W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H"",
+        ""RAM"": 32,
+        ""disk space"": ""2 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4080""
+    }
+]
+```",ASUS,ZenBook Pro 16X OLED UX7602BZ-MY005W,"Intel® Core™ i9,i9-13900H",32,2 TB,NVIDIA GeForce RTX™ 4080
+"HP 17-cn2356ng, Notebook, mit 17,3 Zoll Display, Intel® Core™ i5,i5-1235U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (64 Bit)","799,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""17-cn2356ng"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HP,17-cn2356ng,"Intel® Core™ i5,i5-1235U",16,512 GB,Intel® Iris® Xe
+"HP Victus 16-d1376ng, Notebook, mit 16,1 Zoll Display, Intel® Core™ i7,i7-12700H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 3060, Schwarz, Windows 11 Home (64 Bit)","1648,99€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Victus 16-d1376ng"",
+        ""CPU"": ""Intel® Core™ i7,i7-12700H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3060""
+    }
+]
+```",HP,Victus 16-d1376ng,"Intel® Core™ i7,i7-12700H",16,512 GB,NVIDIA GeForce RTX™ 3060
+"HP OMEN 16-n0375ng, Gaming Notebook, mit 16,1 Zoll Display, AMD Ryzen™ 7,6800H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 3070 Ti, Schwarz, Windows 11 Home (64 Bit)","2099,01€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OMEN 16-n0375ng"",
+        ""CPU"": ""AMD Ryzen™ 7 6800H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3070 Ti""
+    }
+]
+```",HP,OMEN 16-n0375ng,AMD Ryzen™ 7 6800H,16,512 GB,NVIDIA GeForce RTX™ 3070 Ti
+"HP 15s-eq2376ng, Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 7,5700U Prozessor, 16 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Silber, Windows 11 Home (64 Bit)","698,99€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""15s-eq2376ng"",
+        ""CPU"": ""AMD Ryzen™ 7 5700U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,15s-eq2376ng,AMD Ryzen™ 7 5700U,16,512 GB,AMD Radeon™ Onboard Graphics
+"ACER Aspire 5 (A515-57-518G) mit Tastaturbeleuchtung, Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-1235U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Steel Gray, Windows 11 Home (64 Bit)","819,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 5 (A515-57-518G)"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ACER,Aspire 5 (A515-57-518G),"Intel® Core™ i5,i5-1235U",16,512 GB,Intel® Iris® Xe
+"ASUS ROG Flow X16 GV601VI-NL016W, Convertible, mit 16 Zoll Display Touchscreen, Intel® Core™ i9,i9-13900H Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","2999,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Flow X16 GV601VI-NL016W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ASUS,ROG Flow X16 GV601VI-NL016W,"Intel® Core™ i9,i9-13900H",32,1 TB,NVIDIA GeForce RTX™ 4070
+"MICROSOFT Surface Laptop Studio 2, Notebook, mit 14,4 Zoll Display Touchscreen, Intel® Core™ i7,i7-13700H  Prozessor, 64 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Platin, Windows 11 Home (64 Bit)","3799,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Studio 2"",
+        ""CPU"": ""Intel® Core™ i7,i7-13700H"",
+        ""RAM"": 64,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",MICROSOFT,Surface Laptop Studio 2,"Intel® Core™ i7,i7-13700H",64,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Predator Helios Neo 16 (PHN16-72-70UM) mit 240 Hz Display & RGB Tastaturbeleuchtung, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i7,i7-14700HX Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Abyssal Black, Windows 11 Home (64 Bit)","1899,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Predator Helios Neo 16 (PHN16-72-70UM)"",
+        ""CPU"": ""Intel® Core™ i7,i7-14700HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ACER,Predator Helios Neo 16 (PHN16-72-70UM),"Intel® Core™ i7,i7-14700HX",16,1 TB,NVIDIA GeForce RTX™ 4070
+"ACER Swift Go 16 Pro Black Edition (SFG16-71-782M) mit 120 Hz Display mit Tastaturbeleuchtung, Notebook, mit 16 Zoll Display, Intel® Core™ i7,13620H  Prozessor, 32 GB RAM, 1 TB SSD, Intel® UHD Graphics, Ice Black, Windows 11 Pro (64 Bit)","1269,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift Go 16 Pro Black Edition"",
+        ""CPU"": ""Intel® Core™ i7,13620H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Swift Go 16 Pro Black Edition,"Intel® Core™ i7,13620H",32,1 TB,Intel® UHD Graphics
+"APPLE MacBook Pro (2020) MYD92D/A, Notebook mit 13,3 Zoll Display, Apple M1 Prozessor, 8 GB RAM, 512 GB SSD, M1 GPU, Space Grau","1679,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2020)"",
+        ""CPU"": ""Apple M1"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""M1 GPU""
+    }
+]
+```",APPLE,MacBook Pro (2020),Apple M1,8,512 GB,M1 GPU
+"ASUS TUF Gaming A15 FA507XV-HQ002W, Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 9,7940HS  Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz, Grau, Windows 11 Home (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""TUF Gaming A15 FA507XV-HQ002W"",
+        ""CPU"": ""AMD Ryzen™ 9 7940HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,TUF Gaming A15 FA507XV-HQ002W,AMD Ryzen™ 9 7940HS,16,1 TB,NVIDIA GeForce RTX™ 4060
+"LENOVO IdeaPad 3, Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 7,5700U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Arctic Grey, Windows 11 Home (64 Bit)","859,99€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 3"",
+        ""CPU"": ""AMD Ryzen™ 7 5700U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",LENOVO,IdeaPad 3,AMD Ryzen™ 7 5700U,8,512 GB,AMD Radeon™ Onboard Graphics
+"ACER Aspire 3 (A315-24P-R1UP), Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 3,7320U Prozessor, 16 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Pure Silver, Windows 11 Home (64 Bit)","629,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 3 (A315-24P-R1UP)"",
+        ""CPU"": ""AMD Ryzen™ 3,7320U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",ACER,Aspire 3 (A315-24P-R1UP),"AMD Ryzen™ 3,7320U",16,512 GB,AMD Radeon™ Onboard Graphics
+"MEDION AKOYA® E16423 (MD 62569), Notebook, mit 16,0 Zoll Display, Intel® Core™ i5,i5-1155G7 Prozessor, 8 GB RAM, 1 TB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (64 Bit)","609,00€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""AKOYA® E16423"",
+        ""CPU"": ""Intel® Core™ i5-1155G7"",
+        ""RAM"": 8,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MEDION,AKOYA® E16423,Intel® Core™ i5-1155G7,8,1 TB,Intel® Iris® Xe
+"HP OMEN 16-wf1373ng, Gaming Notebook, mit 16,1 Zoll Display, Intel® Core™ i7,i7-14700HX Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OMEN 16-wf1373ng"",
+        ""CPU"": ""Intel® Core™ i7,i7-14700HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",HP,OMEN 16-wf1373ng,"Intel® Core™ i7,i7-14700HX",16,1 TB,NVIDIA GeForce RTX™ 4070
+"ACER Aspire Vero (AV15-53P-7966) mit Tastaturbeleuchtung, Notebook, mit 15,6 Zoll Display, Intel® Core™ i7,i7-1355U  Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Cobblestone Gray, Windows 11 Home (64 Bit)","859,99€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire Vero (AV15-53P-7966)"",
+        ""CPU"": ""Intel® Core™ i7,i7-1355U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ACER,Aspire Vero (AV15-53P-7966),"Intel® Core™ i7,i7-1355U",16,1 TB,Intel® Iris® Xe
+"LENOVO IdeaPad 5i Pro, Notebook, mit 14 Zoll Display, Intel® Core™ i5,i5-1240P Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Storm Grey, Windows 11 Home (64 Bit)","949,99€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 5i Pro"",
+        ""CPU"": ""Intel® Core™ i5-1240P"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",LENOVO,IdeaPad 5i Pro,Intel® Core™ i5-1240P,16,512 GB,Intel® Iris® Xe
+"ASUS ROG Strix SCAR 16 G634JY-NM001W, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-13980HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4090, Schwarz, Windows 11 Home (64 Bit)","4299,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Strix SCAR 16 G634JY-NM001W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13980HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4090""
+    }
+]
+```",ASUS,ROG Strix SCAR 16 G634JY-NM001W,"Intel® Core™ i9,i9-13980HX",32,1 TB,NVIDIA GeForce RTX™ 4090
+"ACER Aspire 5 (A515-56-545J), Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-1135G7 Prozessor, 8 GB RAM, 512 GB SSD, Intel® Iris® Xe, Silber, Linux","649,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 5 (A515-56-545J)"",
+        ""CPU"": ""Intel® Core™ i5,i5-1135G7"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ACER,Aspire 5 (A515-56-545J),"Intel® Core™ i5,i5-1135G7",8,512 GB,Intel® Iris® Xe
+"HP ENVY Laptop 16-h1375ng, Notebook, mit 16 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ i7,i7-13700H (Evo) Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc™ 7 A730M, Silber, Windows 11 Home (64 Bit)","1798,99€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""ENVY Laptop 16-h1375ng"",
+        ""CPU"": ""Intel® Core™ i7,i7-13700H (Evo)"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc™ 7 A730M""
+    }
+]
+```",HP,ENVY Laptop 16-h1375ng,"Intel® Core™ i7,i7-13700H (Evo)",16,1 TB,Intel® Arc™ 7 A730M
+"HP 17-BY2333NG, Notebook, mit 17,3 Zoll Display, Intel® Core™ i7,i7-10510U Prozessor, 8 GB RAM, 256 GB SSD, AMD Radeon™ Onboard Graphics, Schwarz, Windows 10 Home (64 Bit)","849,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""17-BY2333NG"",
+        ""CPU"": ""Intel® Core™ i7,i7-10510U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,17-BY2333NG,"Intel® Core™ i7,i7-10510U",8,256 GB,AMD Radeon™ Onboard Graphics
+"LENOVO Yoga 7i, Notebook, mit 14 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ i5,i5-1135G7 (Evo) Prozessor, 8 GB RAM, 512 GB SSD, Intel® Iris® Xe, Dark Moss, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""Yoga 7i"",
+        ""CPU"": ""Intel® Core™ i5-1135G7 (Evo)"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",LENOVO,Yoga 7i,Intel® Core™ i5-1135G7 (Evo),8,512 GB,Intel® Iris® Xe
+"MSI CREATOR Z16P B12UHST-046, Notebook, mit 16 Zoll Display Touchscreen, Intel® Core™ i9,i9-12900H Prozessor, 32 GB RAM, 2 TB SSD, NVIDIA GeForce RTX™ 3080 Ti, Lunar Gray, Windows 11 Pro (64 Bit)","4699,00€","```json
+[
+    {
+        ""brand"": ""MSI"",
+        ""model name"": ""CREATOR Z16P B12UHST-046"",
+        ""CPU"": ""Intel® Core™ i9,i9-12900H"",
+        ""RAM"": 32,
+        ""disk space"": ""2 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3080 Ti""
+    }
+]
+```",MSI,CREATOR Z16P B12UHST-046,"Intel® Core™ i9,i9-12900H",32,2 TB,NVIDIA GeForce RTX™ 3080 Ti
+"CAPTIVA Advanced Gaming I68-188, Gaming Notebook, mit 17,3 Zoll Display, Intel® Core™ i5,i5-12500H Prozessor, 16 GB RAM, 500 GB SSD, NVIDIA GeForce RTX™ 3050, Mehrfarbig, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""CAPTIVA"",
+        ""model name"": ""Advanced Gaming I68-188"",
+        ""CPU"": ""Intel® Core™ i5,i5-12500H"",
+        ""RAM"": 16,
+        ""disk space"": ""500 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3050""
+    }
+]
+```",CAPTIVA,Advanced Gaming I68-188,"Intel® Core™ i5,i5-12500H",16,500 GB,NVIDIA GeForce RTX™ 3050
+"MSI Stealth 14 Studio A13VE-029, Notebook, mit 14 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ i7,i7-13700H (Evo) Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4050, Star Blue, Windows 11 Home (64 Bit)","2399,00€","```json
+[
+    {
+        ""brand"": ""MSI"",
+        ""model name"": ""Stealth 14 Studio A13VE-029"",
+        ""CPU"": ""Intel® Core™ i7,i7-13700H (Evo)"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",MSI,Stealth 14 Studio A13VE-029,"Intel® Core™ i7,i7-13700H (Evo)",16,1 TB,NVIDIA GeForce RTX™ 4050
+"ACER Swift X (SFX14-71G-77BA) mit Tastaturbeleuchtung, Notebook, mit 14,5 Zoll Display, Intel® Core™ i7,i7-13700H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4050, Steel Grey, Windows 11 Home (64 Bit)","2359,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift X (SFX14-71G-77BA)"",
+        ""CPU"": ""Intel® Core™ i7,i7-13700H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",ACER,Swift X (SFX14-71G-77BA),"Intel® Core™ i7,i7-13700H",16,1 TB,NVIDIA GeForce RTX™ 4050
+"HP OMEN Transcend 16-u0375ng, Notebook, mit 16 Zoll Display, Intel® Core™ i7,i7-13700HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","2399,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OMEN Transcend 16-u0375ng"",
+        ""CPU"": ""Intel® Core™ i7,i7-13700HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",HP,OMEN Transcend 16-u0375ng,"Intel® Core™ i7,i7-13700HX",32,1 TB,NVIDIA GeForce RTX™ 4070
+"ACER Aspire Vero (AV15-52-7154) mit Tastaturbeleuchtung, EVO, Notebook, mit 15,6 Zoll Display, Intel® Core™ i7,i7-1255U (Evo) Prozessor, 16 GB RAM, 1,000 GB SSD, Intel® Iris® Xe, Starry Black, Windows 11 Home (64 Bit)","1049,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire Vero (AV15-52-7154)"",
+        ""CPU"": ""Intel® Core™ i7,i7-1255U (Evo)"",
+        ""RAM"": 16,
+        ""disk space"": ""1,000 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ACER,Aspire Vero (AV15-52-7154),"Intel® Core™ i7,i7-1255U (Evo)",16,"1,000 GB",Intel® Iris® Xe
+"HP - B2B 470 G10, Business Notebook, mit 17,3 Zoll Display, Intel® Core™ i5,i5-1335U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Asteroid Silber, Windows 11 Pro (64 Bit)","1045,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""B2B 470 G10"",
+        ""CPU"": ""Intel® Core™ i5,i5-1335U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HP,B2B 470 G10,"Intel® Core™ i5,i5-1335U",16,512 GB,Intel® Iris® Xe
+"HP - B2B ProBook 445 G10, Business Notebook, mit 14 Zoll Display, AMD Ryzen™ 5,7530U Prozessor, 16 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Silber, Windows 11 Pro (64 Bit)","1045,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""ProBook 445 G10"",
+        ""CPU"": ""AMD Ryzen™ 5,7530U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,ProBook 445 G10,"AMD Ryzen™ 5,7530U",16,512 GB,AMD Radeon™ Onboard Graphics
+"HP OMEN 16-u0695ng, Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-13900HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","2799,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OMEN 16-u0695ng"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",HP,OMEN 16-u0695ng,"Intel® Core™ i9,i9-13900HX",32,1 TB,NVIDIA GeForce RTX™ 4070
+"ACER Swift 1 (SF114-34-P6C4) mit Tastaturbeleuchtung, Ultrabook, mit 14 Zoll Display, Intel® Pentium®,N6000 Prozessor, 8 GB RAM, 256 GB SSD, Intel® HD Graphics, Silber, Windows 11 Home (64 Bit)","499,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift 1 (SF114-34-P6C4)"",
+        ""CPU"": ""Intel® Pentium®,N6000"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® HD Graphics""
+    }
+]
+```",ACER,Swift 1 (SF114-34-P6C4),"Intel® Pentium®,N6000",8,256 GB,Intel® HD Graphics
+"APPLE MacBook Pro (2023), Notebook mit 14 Zoll Display, Apple M3 Chip, 8 GB RAM, 10-Core-GPU, 1 TB SSD, Silber","2229,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2023)"",
+        ""CPU"": ""Apple M3 Chip"",
+        ""RAM"": 8,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""10-Core-GPU""
+    }
+]
+```",APPLE,MacBook Pro (2023),Apple M3 Chip,8,1 TB,10-Core-GPU
+"HP OMEN 16-u1375ng, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i7,i7-14700HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","2299,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OMEN 16-u1375ng"",
+        ""CPU"": ""Intel® Core™ i7,i7-14700HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",HP,OMEN 16-u1375ng,"Intel® Core™ i7,i7-14700HX",32,1 TB,NVIDIA GeForce RTX™ 4070
+"ASUS ROG Strix SCAR 16 G634JYR-RA029W, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-14900HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4090, Schwarz, Windows 11 Home (64 Bit)","3999,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Strix SCAR 16 G634JYR-RA029W"",
+        ""CPU"": ""Intel® Core™ i9,i9-14900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4090""
+    }
+]
+```",ASUS,ROG Strix SCAR 16 G634JYR-RA029W,"Intel® Core™ i9,i9-14900HX",32,1 TB,NVIDIA GeForce RTX™ 4090
+"ASUS ROG Flow X16 GV601VV-NF019W, Convertible, mit 16 Zoll Display Touchscreen, Intel® Core™ i9,i9-13900H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Off Black, Windows 11 Home (64 Bit)","2499,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Flow X16 GV601VV-NF019W"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ROG Flow X16 GV601VV-NF019W,"Intel® Core™ i9,i9-13900H",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Swift X 16 (SFX16-61G-R7YR) mit 120 Hz Display mit Tastaturbeleuchtung, Notebook, mit 16 Zoll Display, AMD Ryzen™ 7,7840HS Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Steel Gray, Windows 11 Home (64 Bit)","1469,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift X 16 (SFX16-61G-R7YR)"",
+        ""CPU"": ""AMD Ryzen™ 7,7840HS"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",ACER,Swift X 16 (SFX16-61G-R7YR),"AMD Ryzen™ 7,7840HS",16,512 GB,NVIDIA GeForce RTX™ 4050
+"HP OMEN 16-wf1395ng, Gaming Notebook, mit 16,1 Zoll Display, Intel® Core™ i9,i9-14900HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4080, Shadow Black, Windows 11 Home (64 Bit)","3299,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OMEN 16-wf1395ng"",
+        ""CPU"": ""Intel® Core™ i9,i9-14900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4080""
+    }
+]
+```",HP,OMEN 16-wf1395ng,"Intel® Core™ i9,i9-14900HX",32,1 TB,NVIDIA GeForce RTX™ 4080
+"HP OMEN 16-wf1375ng, Gaming Notebook, mit 16,1 Zoll Display, Intel® Core™ i7,i7-14700HX Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4060, Shadow Black, Windows 11 Home (64 Bit)","1799,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OMEN 16-wf1375ng"",
+        ""CPU"": ""Intel® Core™ i7,i7-14700HX"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",HP,OMEN 16-wf1375ng,"Intel® Core™ i7,i7-14700HX",16,512 GB,NVIDIA GeForce RTX™ 4060
+"LG gram Pro 16Z90SP-G.AA78G, Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Schwarz, Windows 11 Home (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram Pro 16Z90SP-G.AA78G"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc®""
+    }
+]
+```",LG,gram Pro 16Z90SP-G.AA78G,"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc®
+"LG gram Pro 17Z90SP-E.AD7BG, Notebook, mit 17 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 3050, Schwarz, Windows 11 Home (64 Bit)","2599,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram Pro 17Z90SP-E.AD7BG"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3050""
+    }
+]
+```",LG,gram Pro 17Z90SP-E.AD7BG,"Intel® Core™ Ultra 7,155H",32,1 TB,NVIDIA GeForce RTX™ 3050
+"LG gram Pro 17Z90SP-G.AA78G, Notebook, mit 17 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Schwarz, Windows 11 Home (64 Bit)","2199,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram Pro 17Z90SP-G.AA78G"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc®""
+    }
+]
+```",LG,gram Pro 17Z90SP-G.AA78G,"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc®
+"LG gram 16Z90S-G.AA75G, Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 512 GB SSD, Intel® Arc® GPU, Schwarz, Windows 11 Home (64 Bit)","1749,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram 16Z90S-G.AA75G"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",LG,gram 16Z90S-G.AA75G,"Intel® Core™ Ultra 7,155H",16,512 GB,Intel® Arc® GPU
+"LG gram 16Z90S-G.AA79G, Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Grau, Windows 11 Home (64 Bit)","1849,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram 16Z90S-G.AA79G"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc®""
+    }
+]
+```",LG,gram 16Z90S-G.AA79G,"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc®
+"LG gram 16Z90S-G.AA77G, Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Weiß, Windows 11 Home (64 Bit)","1849,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram 16Z90S-G.AA77G"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc®""
+    }
+]
+```",LG,gram 16Z90S-G.AA77G,"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc®
+"LG gram 16Z90S-G.AA79G, Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Grau, Windows 11 Home (64 Bit)","1849,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram 16Z90S-G.AA79G"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc®""
+    }
+]
+```",LG,gram 16Z90S-G.AA79G,"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc®
+"LG gram 16Z90S-G.AD7CG, Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 32 GB RAM, 2 TB SSD, Intel® Arc® GPU, Grau, Windows 11 Home (64 Bit)","2049,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram 16Z90S-G.AD7CG"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 32,
+        ""disk space"": ""2 TB"",
+        ""GPU"": ""Intel® Arc®""
+    }
+]
+```",LG,gram 16Z90S-G.AD7CG,"Intel® Core™ Ultra 7,155H",32,2 TB,Intel® Arc®
+"LG gram 17Z90S-G.AA75G, Notebook, mit 17 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 512 GB SSD, Intel® Arc® GPU, Schwarz, Windows 11 Home (64 Bit)","1849,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram 17Z90S-G.AA75G"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",LG,gram 17Z90S-G.AA75G,"Intel® Core™ Ultra 7,155H",16,512 GB,Intel® Arc® GPU
+"LG gram 17Z90S-G.AA79G, Notebook, mit 17 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Grau, Windows 11 Home (64 Bit)","1899,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram 17Z90S-G.AA79G"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc®""
+    }
+]
+```",LG,gram 17Z90S-G.AA79G,"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc®
+"LG gram Pro 2in1 16T90SP-K.AA78G, Notebook, mit 16 Zoll Display Touchscreen, Intel® Core™ Ultra 7 155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Schwarz, Windows 11 Home (64 Bit)","2349,00€","```json
+[
+    {
+        ""brand"": ""LG"",
+        ""model name"": ""gram Pro 2in1"",
+        ""CPU"": ""Intel® Core™ Ultra 7 155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc®""
+    }
+]
+```",LG,gram Pro 2in1,Intel® Core™ Ultra 7 155H,16,1 TB,Intel® Arc®
+"ASUS Vivobook Pro 15 OLED N6506MV-MA032W, Laptop, mit 15,6 Zoll Display, Intel® Core™ Ultra 7, 155H Prozessor, 24 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Grau, Windows 11 Home (64 Bit)","2099,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook Pro 15 OLED N6506MV-MA032W"",
+        ""CPU"": ""Intel® Core™ Ultra 7, 155H"",
+        ""RAM"": 24,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,Vivobook Pro 15 OLED N6506MV-MA032W,"Intel® Core™ Ultra 7, 155H",24,1 TB,NVIDIA GeForce RTX™ 4060
+"HP OMEN 14-fb0376ng, Gaming Notebook, mit 14 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Weiß, Windows 11 Home (64 Bit)","2199,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""OMEN 14-fb0376ng"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",HP,OMEN 14-fb0376ng,"Intel® Core™ Ultra 7,155H",16,1 TB,NVIDIA GeForce RTX™ 4060
+"APPLE MacBook Air, MLY13D/A, CTO, Notebook, mit 13,6 Zoll Display, Apple M-Series,M2 Prozessor, 16 GB RAM, 512 GB SSD, Apple M2, Polarstern, macOS","1659,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air"",
+        ""CPU"": ""Apple M2"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air,Apple M2,16,512 GB,
+"ACER Acer Aspire Vero 16 (AV16-51P-77LH) mit Tastaturbeleuchtung, EVO,, Notebook, mit 16 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ Ultra 7,155U Prozessor, 16 GB RAM, 1,000 GB SSD, Intel® UHD Graphics, Cobblestone Gray, Windows 11 Home (64 Bit)","1089,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Acer Aspire Vero 16 (AV16-51P-77LH)"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155U"",
+        ""RAM"": 16,
+        ""disk space"": ""1,000 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Acer Aspire Vero 16 (AV16-51P-77LH),"Intel® Core™ Ultra 7,155U",16,"1,000 GB",Intel® UHD Graphics
+"ACER Swift Go 14 OLED (SFG14-73-75QL) mit Tastaturbeleuchtung, Notebook, mit 14 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Pure Silver, Windows 11 Home (64 Bit)","1179,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift Go 14 OLED (SFG14-73-75QL)"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",ACER,Swift Go 14 OLED (SFG14-73-75QL),"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc® GPU
+"ACER Swift Go 14 OLED (SFG14-73-738H) mit Tastaturbeleuchtung, Notebook, mit 14 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ Ultra 7,155H Prozessor, 32 GB RAM, 1 TB SSD, Intel® Arc® GPU, Pure Silver, Windows 11 Home (64 Bit)","1399,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift Go 14 OLED (SFG14-73-738H)"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",ACER,Swift Go 14 OLED (SFG14-73-738H),"Intel® Core™ Ultra 7,155H",32,1 TB,Intel® Arc® GPU
+"ACER Nitro 17 (AN17-41-R848) mit 165 Hz Display mit RGB Tastaturbeleuchtung, Gaming Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 7,7735HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Obsidian Black, Windows 11 Home (64 Bit)","1599,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Nitro 17 (AN17-41-R848)"",
+        ""CPU"": ""AMD Ryzen™ 7,7735HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ACER,Nitro 17 (AN17-41-R848),"AMD Ryzen™ 7,7735HS",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Predator Helios Neo 18 (PHN18-71-793L) mit 165 Hz Display mit RGB Tastaturbeleuchtung, Gaming Notebook, mit 18 Zoll Display, Intel® Core™ i7,i7-14650HX Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Abyssal Black, Windows 11 Home (64 Bit)","1759,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Predator Helios Neo 18 (PHN18-71-793L)"",
+        ""CPU"": ""Intel® Core™ i7,i7-14650HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ACER,Predator Helios Neo 18 (PHN18-71-793L),"Intel® Core™ i7,i7-14650HX",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Predator Triton Neo 16 (PTN16-51-978P) mit 165 Hz Display mit RGB Tastaturbeleuchtung, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 9,185H Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Sparkly Silver, Windows 11 Home (64 Bit)","2149,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Predator Triton Neo 16 (PTN16-51-978P)"",
+        ""CPU"": ""Intel® Core™ Ultra 9,185H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ACER,Predator Triton Neo 16 (PTN16-51-978P),"Intel® Core™ Ultra 9,185H",32,1 TB,NVIDIA GeForce RTX™ 4070
+"ACER Predator Helios 16 (PH16-72-96T5) mit 240 Hz Display & RGB Tastaturbeleuchtung, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-14900HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Abyssal Black, Windows 11 Home (64 Bit)","2299,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Predator Helios 16 (PH16-72-96T5)"",
+        ""CPU"": ""Intel® Core™ i9,i9-14900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ACER,Predator Helios 16 (PH16-72-96T5),"Intel® Core™ i9,i9-14900HX",32,1 TB,NVIDIA GeForce RTX™ 4070
+"MEDION SPRCHRGD 14 S1 Elite, Copilot+ PC, mit 14 Zoll Display, Qualcomm Snapdragon X Elite,X Elite Prozessor, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Galaxy Grey, Windows 11 Home (64 Bit)","1199,00€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""SPRCHRGD 14 S1 Elite, Copilot+ PC"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MEDION,"SPRCHRGD 14 S1 Elite, Copilot+ PC",Qualcomm Snapdragon X Elite,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"MEDION SPRCHRGD 14 S1 Elite, Copilot+ PC, mit 14 Zoll Display, Qualcomm Snapdragon X Elite, 32 GB RAM, 1 TB SSD, Qualcomm Adreno™ Onboard Graphics, Galaxy Grey, Windows 11 Home (64 Bit)","1299,00€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""SPRCHRGD 14 S1 Elite, Copilot+ PC"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MEDION,"SPRCHRGD 14 S1 Elite, Copilot+ PC",Qualcomm Snapdragon X Elite,32,1 TB,Qualcomm Adreno™ Onboard Graphics
+"APPLE MacBook Air (2022), MLY33D/A, Notebook mit 13,6 Zoll Display, Apple M2 Prozessor, 8 GB RAM, 256 GB SSD, M2, Mitternacht","1199,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2022)"",
+        ""CPU"": ""Apple M2"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2022),Apple M2,8,256 GB,
+"APPLE MacBook Air (2022), MLY13D/A, Notebook mit 13,6 Zoll Display, Apple M2 Prozessor, 8 GB RAM, 256 GB SSD, M2, Polarstern","1199,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2022)"",
+        ""CPU"": ""Apple M2"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2022),Apple M2,8,256 GB,
+"LENOVO IdeaPad 3, Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 5,5500U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ Onboard Graphics, Arctic Grey, Windows 11 Home (64 Bit)","479,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 3"",
+        ""CPU"": ""AMD Ryzen™ 5,5500U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",LENOVO,IdeaPad 3,"AMD Ryzen™ 5,5500U",8,512 GB,AMD Radeon™ Onboard Graphics
+"GIGABYTE G5, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i7,i7 -13620H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4050, Schwarz, Windows 11 (64 Bit)","999,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""G5"",
+        ""CPU"": ""Intel® Core™ i7-13620H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",GIGABYTE,G5,Intel® Core™ i7-13620H,16,1 TB,NVIDIA GeForce RTX™ 4050
+"APPLE MacBook Pro (2023), Notebook mit 14 Zoll Display, Apple M3 Chip, 8 GB RAM, 10-Core GPU, 512 GB SSD, Space Grau","1999,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2023)"",
+        ""CPU"": ""Apple M3 Chip"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""10-Core GPU""
+    }
+]
+```",APPLE,MacBook Pro (2023),Apple M3 Chip,8,512 GB,10-Core GPU
+"APPLE MacBook Air (2022), MLXY3D/A, Notebook mit 13,6 Zoll Display, Apple M2 Prozessor, 8 GB RAM, 256 GB SSD, M2, Silber","1199,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2022)"",
+        ""CPU"": ""Apple M2"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2022),Apple M2,8,256 GB,
+"LENOVO IdeaPad Slim 3, Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,7520U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ 610M, Arctic Grey, Windows 11 Home (64 Bit)","509,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad Slim 3"",
+        ""CPU"": ""AMD Ryzen™ 5,7520U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ 610M""
+    }
+]
+```",LENOVO,IdeaPad Slim 3,"AMD Ryzen™ 5,7520U",8,512 GB,AMD Radeon™ 610M
+"ACER Nitro 5 (AN517-55-56G2) mit 144 Hz Display & RGB Tastaturbeleuchtung, Gaming Notebook, mit 17,3 Zoll Display, Intel® Core™ i5,i5-12450H  Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 3050, Obsidian Black, Windows 11 Home (64 Bit)","1079,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Nitro 5 (AN517-55-56G2)"",
+        ""CPU"": ""Intel® Core™ i5,i5-12450H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3050""
+    }
+]
+```",ACER,Nitro 5 (AN517-55-56G2),"Intel® Core™ i5,i5-12450H",16,512 GB,NVIDIA GeForce RTX™ 3050
+"PEAQ PNB C140M-1G428D, Notebook, mit 14 Zoll Display, Intel® Celeron®,N4120 Prozessor, 4 GB RAM, 128 GB SSD, Intel® HD Graphics, Silber-Grau, Windows 11 Home (64 Bit)","279,00€","```json
+[
+    {
+        ""brand"": ""PEAQ"",
+        ""model name"": ""PNB C140M-1G428D"",
+        ""CPU"": ""Intel® Celeron®,N4120"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB"",
+        ""GPU"": ""Intel® HD Graphics""
+    }
+]
+```",PEAQ,PNB C140M-1G428D,"Intel® Celeron®,N4120",4,128 GB,Intel® HD Graphics
+"ASUS VivoBook 17 X1704VA-AU393W, Notebook, mit 17,3 Zoll Display, Intel® Core™ i7,i7-1355U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Quiet Blue, Windows 11 Home (64 Bit)","799,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook 17 X1704VA-AU393W"",
+        ""CPU"": ""Intel® Core™ i7,i7-1355U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ASUS,VivoBook 17 X1704VA-AU393W,"Intel® Core™ i7,i7-1355U",16,512 GB,Intel® Iris® Xe
+"APPLE MacBook Air (2024), MRXV3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 8 GB RAM, 256 GB SSD, Mitternacht, macOS","1299,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,256 GB,
+"ASUS TUF Gaming A17 FA707NV-HX013W, Gaming Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 7,7735HS  Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Grau, Windows 11 Home (64 Bit)","1499,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""TUF Gaming A17 FA707NV-HX013W"",
+        ""CPU"": ""AMD Ryzen™ 7,7735HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,TUF Gaming A17 FA707NV-HX013W,"AMD Ryzen™ 7,7735HS",16,1 TB,NVIDIA GeForce RTX™ 4060
+"DELL - B2B Latitude 3540, Business Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-1335U Prozessor, 16 GB RAM, 256 GB SSD, Intel® Iris® Xe, Grau, Windows 11 Pro (64 Bit)","999,00€","```json
+[
+    {
+        ""brand"": ""DELL"",
+        ""model name"": ""Latitude 3540"",
+        ""CPU"": ""Intel® Core™ i5-1335U"",
+        ""RAM"": 16,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",DELL,Latitude 3540,Intel® Core™ i5-1335U,16,256 GB,Intel® Iris® Xe
+"DELL - B2B Latitude 5440, Business Notebook, mit 14 Zoll Display, Intel® Core™ i7,i7-1365U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Grau, Windows 11 Pro (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""DELL"",
+        ""model name"": ""Latitude 5440"",
+        ""CPU"": ""Intel® Core™ i7,i7-1365U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",DELL,Latitude 5440,"Intel® Core™ i7,i7-1365U",16,512 GB,Intel® Iris® Xe
+"DELL - B2B Latitude 3440, Business Notebook, mit 14 Zoll Display, Intel® Core™ i5,i5-1335U Prozessor, 16 GB RAM, 256 GB SSD, Intel® Iris® Xe, Grau, Windows 11 Pro (64 Bit)","1045,99€","```json
+[
+    {
+        ""brand"": ""DELL"",
+        ""model name"": ""Latitude 3440"",
+        ""CPU"": ""Intel® Core™ i5-1335U"",
+        ""RAM"": 16,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",DELL,Latitude 3440,Intel® Core™ i5-1335U,16,256 GB,Intel® Iris® Xe
+"DELL - B2B Latitude 7440 2-in-1, Business Convertible, mit 14 Zoll Display Touchscreen, Intel® Core™ i7,i7-1365U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Grau, Windows 11 Pro (64 Bit)","1849,00€","```json
+[
+    {
+        ""brand"": ""DELL"",
+        ""model name"": ""Latitude 7440 2-in-1"",
+        ""CPU"": ""Intel® Core™ i7,i7-1365U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",DELL,Latitude 7440 2-in-1,"Intel® Core™ i7,i7-1365U",16,512 GB,Intel® Iris® Xe
+"ACER Nitro 5 (AN517-55-74Q3) mit 144 Hz Display & RGB Tastaturbeleuchtung, Gaming Notebook, mit 17,3 Zoll Display, Intel® Core™ i7,i7-12650H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz, Windows 11 Home (64 Bit)","1869,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Nitro 5 (AN517-55-74Q3)"",
+        ""CPU"": ""Intel® Core™ i7,i7-12650H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ACER,Nitro 5 (AN517-55-74Q3),"Intel® Core™ i7,i7-12650H",16,1 TB,NVIDIA GeForce RTX™ 4060
+"DELL - B2B Latitude 7440, Business Notebook, mit 14 Zoll Display, Intel® Core™ i5,i5-1345U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Grau, Windows 11 Pro (64 Bit)","1549,00€","```json
+[
+    {
+        ""brand"": ""DELL"",
+        ""model name"": ""Latitude 7440"",
+        ""CPU"": ""Intel® Core™ i5-1345U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",DELL,Latitude 7440,Intel® Core™ i5-1345U,16,512 GB,Intel® Iris® Xe
+"DELL - B2B Latitude 7440, Business Notebook, mit 14 Zoll Display, Intel® Core™ i5,i5-1345U Prozessor, 16 GB RAM, 256 GB SSD, Intel® Iris® Xe, Grau, Windows 11 Pro (64 Bit)","1649,00€","```json
+[
+    {
+        ""brand"": ""DELL"",
+        ""model name"": ""Latitude 7440"",
+        ""CPU"": ""Intel® Core™ i5-1345U"",
+        ""RAM"": 16,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",DELL,Latitude 7440,Intel® Core™ i5-1345U,16,256 GB,Intel® Iris® Xe
+"MICROSOFT Surface Pro, Copilot+ PC, 11. Edition, OLED, Convertible, mit 13 Zoll Display, Qualcomm Snapdragon X Elite, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","1799,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Pro, Copilot+ PC, 11. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Pro, Copilot+ PC, 11. Edition",Qualcomm Snapdragon X Elite,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"HUAWEI Matebook D14 2024, Notebook, mit 14 Zoll Display, Intel® Core™ i5,i5-12450H Prozessor, 16 GB RAM, 512 GB SSD, Intel® UHD Graphics, Space Gray, Windows 11 Home (64 Bit)","849,00€","```json
+[
+    {
+        ""brand"": ""HUAWEI"",
+        ""model name"": ""Matebook D14 2024"",
+        ""CPU"": ""Intel® Core™ i5,i5-12450H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",HUAWEI,Matebook D14 2024,"Intel® Core™ i5,i5-12450H",16,512 GB,Intel® UHD Graphics
+"ASUS VivoBook 16 M1605YA-MB638W, Notebook, mit 16 Zoll Display, AMD Ryzen™ 7,7730U Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon™ Onboard Graphics, Cool Silver, Windows 11 Home (64 Bit)","699,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook 16 M1605YA-MB638W"",
+        ""CPU"": ""AMD Ryzen™ 7,7730U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",ASUS,VivoBook 16 M1605YA-MB638W,"AMD Ryzen™ 7,7730U",16,1 TB,AMD Radeon™ Onboard Graphics
+"GIGABYTE G5, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i7,i7-13620H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz, Windows 11 Home (64 Bit)","1199,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""G5"",
+        ""CPU"": ""Intel® Core™ i7-13620H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",GIGABYTE,G5,Intel® Core™ i7-13620H,16,1 TB,NVIDIA GeForce RTX™ 4060
+"DELL - B2B Precision 3580, Business Notebook, mit 15,6 Zoll Display, Intel® Core™ i7,i7-1360P Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ A500, Grau, Windows 11 Pro (64 Bit)","1299,00€","```json
+[
+    {
+        ""brand"": ""DELL"",
+        ""model name"": ""Precision 3580"",
+        ""CPU"": ""Intel® Core™ i7-1360P"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ A500""
+    }
+]
+```",DELL,Precision 3580,Intel® Core™ i7-1360P,16,512 GB,NVIDIA GeForce RTX™ A500
+"MICROSOFT Surface Pro, Copilot+ PC, 11. Edition, Convertible, mit 13 Zoll Display, Qualcomm Snapdragon X Plus, 16 GB RAM, 256 GB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","1159,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Pro, Copilot+ PC, 11. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Plus"",
+        ""RAM"": 16,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Pro, Copilot+ PC, 11. Edition",Qualcomm Snapdragon X Plus,16,256 GB,Qualcomm Adreno™ Onboard Graphics
+"ASUS ROG Strix G17 G713PV-HX058W, Gaming Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 9,7845HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz/Grau, Windows 11 Home (64 Bit)","1899,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Strix G17 G713PV-HX058W"",
+        ""CPU"": ""AMD Ryzen™ 9,7845HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ROG Strix G17 G713PV-HX058W,"AMD Ryzen™ 9,7845HX",32,1 TB,NVIDIA GeForce RTX™ 4060
+"MICROSOFT Surface Pro, Copilot+ PC, 11. Edition, Convertible, mit 13 Zoll Display, Qualcomm Snapdragon X Plus, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","1449,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Pro, Copilot+ PC, 11. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Plus"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Pro, Copilot+ PC, 11. Edition",Qualcomm Snapdragon X Plus,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"LENOVO Legion Pro 5i, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-14900HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Onyx Grey, Windows 11 Home (64 Bit)","2299,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""Legion Pro 5i"",
+        ""CPU"": ""Intel® Core™ i9-14900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",LENOVO,Legion Pro 5i,Intel® Core™ i9-14900HX,32,1 TB,NVIDIA GeForce RTX™ 4070
+"GIGABYTE AORUS 17X, Gaming Notebook, mit 17,3 Zoll Display, Intel® Core™ i9,i9-14900HX Prozessor, 32 GB RAM, 2 TB SSD, NVIDIA GeForce RTX™ 4080, Schwarz, Windows 11 (64 Bit)","3299,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""AORUS 17X"",
+        ""CPU"": ""Intel® Core™ i9,i9-14900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""2 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4080""
+    }
+]
+```",GIGABYTE,AORUS 17X,"Intel® Core™ i9,i9-14900HX",32,2 TB,NVIDIA GeForce RTX™ 4080
+"ASUS TUF A17 FA707NU-HX052W, Gaming Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 5,7535HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4050, Mecha Gray, Windows 11 Home (64 Bit)","1199,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""TUF A17 FA707NU-HX052W"",
+        ""CPU"": ""AMD Ryzen™ 5,7535HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",ASUS,TUF A17 FA707NU-HX052W,"AMD Ryzen™ 5,7535HS",16,1 TB,NVIDIA GeForce RTX™ 4050
+"APPLE MacBook Air (2024), MXCV3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 16 GB RAM, 512 GB SSD, Mitternacht, macOS","1759,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,16,512 GB,
+"LENOVO IdeaPad 5 Pro, Premium-Notebook, mit 16 Zoll Display, AMD Ryzen™ 7,6800HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 3050 Ti, Cloud Grey, Windows 11 Pro (64 Bit)","1499,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad 5 Pro"",
+        ""CPU"": ""AMD Ryzen™ 7,6800HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3050 Ti""
+    }
+]
+```",LENOVO,IdeaPad 5 Pro,"AMD Ryzen™ 7,6800HS",16,1 TB,NVIDIA GeForce RTX™ 3050 Ti
+"ACER Aspire 5 (A515-57G-541Z) mit Tastaturbeleuchtung, Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-1235U Prozessor, 8 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 2050, Steel Gray, Windows 11 Home (64 Bit)","809,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 5 (A515-57G-541Z)"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 2050""
+    }
+]
+```",ACER,Aspire 5 (A515-57G-541Z),"Intel® Core™ i5,i5-1235U",8,512 GB,NVIDIA GeForce RTX™ 2050
+"MICROSOFT Surface Laptop, Copilot+ PC, 7. Edition, Copilot+ PC, mit 13,8 Zoll Display Touchscreen, Qualcomm Snapdragon X Plus, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","1449,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop, Copilot+ PC, 7. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Plus"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Laptop, Copilot+ PC, 7. Edition",Qualcomm Snapdragon X Plus,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"HP Victus Gaming 15-fa1365ng, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-13500H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4050, Silber, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Victus Gaming 15-fa1365ng"",
+        ""CPU"": ""Intel® Core™ i5,i5-13500H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",HP,Victus Gaming 15-fa1365ng,"Intel® Core™ i5,i5-13500H",16,1 TB,NVIDIA GeForce RTX™ 4050
+"ASUS VivoBook S 15 OLED M5506UA-MA014W, Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 7,8845HS Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon™ 780M, Neutral Black, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook S 15 OLED M5506UA-MA014W"",
+        ""CPU"": ""AMD Ryzen™ 7,8845HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""AMD Radeon™ 780M""
+    }
+]
+```",ASUS,VivoBook S 15 OLED M5506UA-MA014W,"AMD Ryzen™ 7,8845HS",16,1 TB,AMD Radeon™ 780M
+"GIGABYTE AORUS 16X, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-14900HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Midnight Grey, Windows 11 Home (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""AORUS 16X"",
+        ""CPU"": ""Intel® Core™ i9,i9-14900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",GIGABYTE,AORUS 16X,"Intel® Core™ i9,i9-14900HX",32,1 TB,NVIDIA GeForce RTX™ 4070
+"LENOVO IdeaPad Duet 3i, Convertible, mit 11,5 Zoll Display Touchscreen, Intel® N-Series N200 Prozessor, 4 GB RAM, 128 GB Flash, Intel® UHD Graphics, Abyss Blue, Windows 11 Home S-Modus (64 Bit)","509,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad Duet 3i"",
+        ""CPU"": ""Intel® N-Series N200"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",LENOVO,IdeaPad Duet 3i,Intel® N-Series N200,4,128 GB,Intel® UHD Graphics
+"LENOVO LOQ 15AHP9, Gaming Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 7,8845HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Luna Grey, Windows 11 Home (64 Bit)","1399,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""LOQ 15AHP9"",
+        ""CPU"": ""AMD Ryzen™ 7,8845HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",LENOVO,LOQ 15AHP9,"AMD Ryzen™ 7,8845HS",16,1 TB,NVIDIA GeForce RTX™ 4060
+"GIGABYTE AORUS 17, Gaming Notebook, mit 17,3 Zoll Display, Intel® Core™ i7,i7 -13620H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 (64 Bit)","1799,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""AORUS 17"",
+        ""CPU"": ""Intel® Core™ i7-13620H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",GIGABYTE,AORUS 17,Intel® Core™ i7-13620H,16,1 TB,NVIDIA GeForce RTX™ 4070
+"GIGABYTE AORUS 17X, Gaming Notebook, mit 17,3 Zoll Display, Intel® Core™ i9,i9-14900HX Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4090, Midnight Grey, Windows 11 Home (64 Bit)","3799,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""AORUS 17X"",
+        ""CPU"": ""Intel® Core™ i9,i9-14900HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4090""
+    }
+]
+```",GIGABYTE,AORUS 17X,"Intel® Core™ i9,i9-14900HX",32,1 TB,NVIDIA GeForce RTX™ 4090
+"ACER Aspire 5 (A517-53-70AN) mit Tastaturbeleuchtung, Notebook, mit 17,3 Zoll Display, Intel® Core™ i7,12650H  Prozessor, 32 GB RAM, 1 TB SSD, Intel® UHD Graphics, Steel Gray, Windows 11 Home (64 Bit)","999,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 5 (A517-53-70AN)"",
+        ""CPU"": ""Intel® Core™ i7,12650H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Aspire 5 (A517-53-70AN),"Intel® Core™ i7,12650H",32,1 TB,Intel® UHD Graphics
+"ASUS Vivobook Go 15 E510KA-EJ225WS, inkl. 1 Jahr Microsoft 365 Single, Notebook, mit 15,6 Zoll Display, Intel® Celeron®,N4500 Prozessor, 4 GB RAM, 128 GB eMMC, Intel® HD Graphics, Star Black, Windows 11 Home S-Modus (64 Bit)","299,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook Go 15 E510KA-EJ225WS"",
+        ""CPU"": ""Intel® Celeron®,N4500"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB"",
+        ""GPU"": ""Intel® HD Graphics""
+    }
+]
+```",ASUS,Vivobook Go 15 E510KA-EJ225WS,"Intel® Celeron®,N4500",4,128 GB,Intel® HD Graphics
+"APPLE MacBook Pro (2023), Notebook mit 14 Zoll Display, Apple M3 Pro Chip, 18 GB RAM, 14-Core GPU, 512 GB SSD, Silber","2499,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2023)"",
+        ""CPU"": ""Apple M3 Pro"",
+        ""RAM"": 18,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""14-Core GPU""
+    }
+]
+```",APPLE,MacBook Pro (2023),Apple M3 Pro,18,512 GB,14-Core GPU
+"ACER Chromebook Spin 511 (R753TN-C6TK), Chromebook, mit 11,6 Zoll Display Touchscreen, Intel® Celeron®,N5100 Prozessor, 4 GB RAM, 32 GB eMMC, Intel® UHD Graphics, Schwarz, Google Chrome OS","199,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook Spin 511 (R753TN-C6TK)"",
+        ""CPU"": ""Intel® Celeron®,N5100"",
+        ""RAM"": 4,
+        ""disk space"": ""32 GB eMMC"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Chromebook Spin 511 (R753TN-C6TK),"Intel® Celeron®,N5100",4,32 GB eMMC,Intel® UHD Graphics
+"APPLE MacBook Air (2020), Notebook mit 13,3 Zoll Display, Apple M1 Prozessor, 8 GB RAM, 256 GB SSD, M1, Space Grau","1129,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2020)"",
+        ""CPU"": ""Apple M1"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2020),Apple M1,8,256 GB,
+"APPLE MacBook Air (2024), MRXT3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 8 GB RAM, 256 GB SSD, Polarstern, macOS","1299,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,256 GB,
+"HUAWEI Matebook 14, Notebook, mit 14,2 Zoll Display Touchscreen, Intel® Core™ Ultra 5,125H Prozessor, 16 GB RAM, 512 GB SSD, Intel® Arc® GPU, Space Gray, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""HUAWEI"",
+        ""model name"": ""Matebook 14"",
+        ""CPU"": ""Intel® Core™ Ultra 5,125H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",HUAWEI,Matebook 14,"Intel® Core™ Ultra 5,125H",16,512 GB,Intel® Arc® GPU
+"APPLE MacBook Air (2024), MXD43D/A, Notebook, mit 15,3 Zoll Display, Apple M3, 16 GB RAM, 512 GB SSD, Apple M3, Mitternacht, macOS","2059,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""Apple M3"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),Apple M3,16,512 GB,
+"LENOVO IdeaPad Duet 3, inkl. Lenovo USI Pen 2, 2-in-1 Chromebook, mit 11 Zoll Display, Qualcomm -,7c Prozessor, 4 GB RAM, 128 GB eMMC, Qualcomm Adreno™ Onboard Graphics, Storm Grey, Google Chrome OS","399,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad Duet 3"",
+        ""CPU"": ""Qualcomm Snapdragon 7c"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",LENOVO,IdeaPad Duet 3,Qualcomm Snapdragon 7c,4,128 GB eMMC,Qualcomm Adreno™ Onboard Graphics
+"MICROSOFT Surface Laptop, Copilot+ PC, 7. Edition, Copilot+ PC, mit 13,8 Zoll Display Touchscreen, Qualcomm Snapdragon X Plus, 16 GB RAM, 256 GB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","1199,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop, Copilot+ PC, 7. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Plus"",
+        ""RAM"": 16,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Laptop, Copilot+ PC, 7. Edition",Qualcomm Snapdragon X Plus,16,256 GB,Qualcomm Adreno™ Onboard Graphics
+"ASUS Vivobook Go 15 E1504FA-BQ659W, Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,7520U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon™ 610M, Schwarz, Windows 11 Home (64 Bit)","529,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook Go 15 E1504FA-BQ659W"",
+        ""CPU"": ""AMD Ryzen™ 5,7520U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""AMD Radeon™ 610M""
+    }
+]
+```",ASUS,Vivobook Go 15 E1504FA-BQ659W,"AMD Ryzen™ 5,7520U",8,512 GB,AMD Radeon™ 610M
+"ASUS ROG Zephyrus G14 GA402NV-N2027W, Gaming Notebook, mit 14 Zoll Display, AMD Ryzen™ 7,7735HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz/Grau, Windows 11 Home (64 Bit)","1799,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Zephyrus G14 GA402NV-N2027W"",
+        ""CPU"": ""AMD Ryzen™ 7 7735HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ROG Zephyrus G14 GA402NV-N2027W,AMD Ryzen™ 7 7735HS,16,1 TB,NVIDIA GeForce RTX™ 4060
+"ASUS ROG Strix G17 G713PI-LL005W, Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 9,7945HX  Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz/Grau, Windows 11 Home (64 Bit)","2499,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Strix G17 G713PI-LL005W"",
+        ""CPU"": ""AMD Ryzen™ 9,7945HX"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ASUS,ROG Strix G17 G713PI-LL005W,"AMD Ryzen™ 9,7945HX",32,1 TB,NVIDIA GeForce RTX™ 4070
+"GIGABYTE G6X, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i7,i7-13650HX  Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz, Windows 11 (64 Bit)","1349,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""G6X"",
+        ""CPU"": ""Intel® Core™ i7-13650HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",GIGABYTE,G6X,Intel® Core™ i7-13650HX,16,1 TB,NVIDIA GeForce RTX™ 4060
+"HP 17-cp0377ng, Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 7,5700U Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon™ Onboard Graphics, Silber, Windows 11 Home (64 Bit)","698,99€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""17-cp0377ng"",
+        ""CPU"": ""AMD Ryzen™ 7 5700U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",HP,17-cp0377ng,AMD Ryzen™ 7 5700U,16,1 TB,AMD Radeon™ Onboard Graphics
+"ACER Nitro V15 (ANV15-41-R2ZS) mit 144 Hz Display & Tastaturbeleuchtung, Gaming Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 7,7735HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Obsidian Black, Windows 11 Home (64 Bit)","1299,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Nitro V15 (ANV15-41-R2ZS)"",
+        ""CPU"": ""AMD Ryzen™ 7,7735HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ACER,Nitro V15 (ANV15-41-R2ZS),"AMD Ryzen™ 7,7735HS",16,1 TB,NVIDIA GeForce RTX™ 4060
+"ASUS VivoBook 17X M1703QA-AU056W, Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 9,5900HX Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon™ Onboard Graphics, Blau, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook 17X M1703QA-AU056W"",
+        ""CPU"": ""AMD Ryzen™ 9,5900HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""AMD Radeon™ Onboard Graphics""
+    }
+]
+```",ASUS,VivoBook 17X M1703QA-AU056W,"AMD Ryzen™ 9,5900HX",16,1 TB,AMD Radeon™ Onboard Graphics
+"MICROSOFT Surface Laptop, Copilot+ PC, 7. Edition, Copilot+ PC, mit 15 Zoll Display Touchscreen, Qualcomm Snapdragon X Elite, 16 GB RAM, 256 GB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","1549,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop, Copilot+ PC, 7. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Laptop, Copilot+ PC, 7. Edition",Qualcomm Snapdragon X Elite,16,256 GB,Qualcomm Adreno™ Onboard Graphics
+"LENOVO IdeaPad Slim 5i, Slim Notebook, mit 16 Zoll Display, Intel® Core™ i7,i7-13620H Prozessor, 16 GB RAM, 1 TB SSD, Intel® UHD Graphics, Cloud Grey, Windows 11 Home (64 Bit)","919,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""IdeaPad Slim 5i"",
+        ""CPU"": ""Intel® Core™ i7, i7-13620H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",LENOVO,IdeaPad Slim 5i,"Intel® Core™ i7, i7-13620H",16,1 TB,Intel® UHD Graphics
+"ASUS ROG Zephyrus G16 GU605MI-QR044W, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 9,185H Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz/Grau, Windows 11 Home (64 Bit)","2649,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Zephyrus G16 GU605MI-QR044W"",
+        ""CPU"": ""Intel® Core™ Ultra 9,185H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ASUS,ROG Zephyrus G16 GU605MI-QR044W,"Intel® Core™ Ultra 9,185H",32,1 TB,NVIDIA GeForce RTX™ 4070
+"MSI PRESTIGE 16 AI STUDIO B1VG-008, Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 9,Core 9 Ultra Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Stellar Gray, Windows 11 Home (64 Bit)","2799,00€","```json
+[
+    {
+        ""brand"": ""MSI"",
+        ""model name"": ""PRESTIGE 16 AI STUDIO B1VG-008"",
+        ""CPU"": ""Intel® Core™ Ultra 9,Core 9 Ultra"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",MSI,PRESTIGE 16 AI STUDIO B1VG-008,"Intel® Core™ Ultra 9,Core 9 Ultra",32,1 TB,NVIDIA GeForce RTX™ 4070
+"APPLE MacBook Air (2024), MRXN3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 8 GB RAM, 256 GB SSD, Space Grau, macOS","1299,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,256 GB,
+"APPLE MacBook Air (2024), MRYU3D/A, Notebook, mit 15,3 Zoll Display, M3 Prozessor, 8 GB RAM, 256 GB SSD, Mitternacht, macOS","1599,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,256 GB,
+"APPLE MacBook Pro (2023), Notebook mit 14 Zoll Display, Apple M3 Pro Chip, 18 GB RAM, 14-Core GPU, 512 GB SSD, Space Schwarz","2499,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2023)"",
+        ""CPU"": ""Apple M3 Pro"",
+        ""RAM"": 18,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""14-Core GPU""
+    }
+]
+```",APPLE,MacBook Pro (2023),Apple M3 Pro,18,512 GB,14-Core GPU
+"APPLE MacBook Air (2024), MXCR3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 16 GB RAM, 512 GB SSD, Space Grau, macOS","1759,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,16,512 GB,
+"APPLE MacBook Air (2024), MRXU3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 8 GB RAM, 512 GB SSD, Polarstern, macOS","1529,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,512 GB,
+"HP Laptop 15s-fq5333ng, Notebook, mit 15,6 Zoll Display, Intel® Core™ i3,i3-1215U Prozessor, 8 GB RAM, 512 GB SSD, Intel® UHD Graphics, Natursilber, Windows 11 Home (64 Bit)","499,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""Laptop 15s-fq5333ng"",
+        ""CPU"": ""Intel® Core™ i3,i3-1215U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",HP,Laptop 15s-fq5333ng,"Intel® Core™ i3,i3-1215U",8,512 GB,Intel® UHD Graphics
+"HUAWEI MateBook D16 2024, Notebook, mit 16 Zoll Display, Intel® Core™ i5,i5-13420H Prozessor, 16 GB RAM, 1 TB SSD, Intel® UHD Graphics, Space Gray, Windows 11 Home (64 Bit)","999,00€","```json
+[
+    {
+        ""brand"": ""HUAWEI"",
+        ""model name"": ""MateBook D16 2024"",
+        ""CPU"": ""Intel® Core™ i5-13420H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",HUAWEI,MateBook D16 2024,Intel® Core™ i5-13420H,16,1 TB,Intel® UHD Graphics
+"MICROSOFT Surface Laptop, Copilot+ PC, 7. Edition, Copilot+ PC, mit 13,8 Zoll Display Touchscreen, Qualcomm Snapdragon X Plus, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Graphit, Windows 11 Home (64 Bit)","1449,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop, Copilot+ PC, 7. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Plus"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Laptop, Copilot+ PC, 7. Edition",Qualcomm Snapdragon X Plus,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"MICROSOFT Surface Pro, Copilot+ PC, 11. Edition, Convertible, mit 13 Zoll Display, Qualcomm Snapdragon X Plus, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Saphirblau, Windows 11 Home (64 Bit)","1449,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Pro, Copilot+ PC, 11. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Plus"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Pro, Copilot+ PC, 11. Edition",Qualcomm Snapdragon X Plus,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"APPLE MacBook Pro (2023), Notebook mit 16 Zoll Display, Apple M3 Pro Chip, 36 GB RAM, 18-Core GPU  512 GB SSD, Space Schwarz","3459,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Pro (2023)"",
+        ""CPU"": ""Apple M3 Pro"",
+        ""RAM"": 36,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""18-Core GPU""
+    }
+]
+```",APPLE,MacBook Pro (2023),Apple M3 Pro,36,512 GB,18-Core GPU
+"ASUS Vivobook S 15 S5507QA-MA006W, Copilot+ PC, Copilot+ PC, mit 15,6 Zoll Display, Qualcomm Snapdragon X Elite,X1E Prozessor, 16 GB RAM, 1 TB SSD, Qualcomm Adreno™ Onboard Graphics, Cool Silver, Windows 11 Home (64 Bit)","1299,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook S 15 S5507QA-MA006W"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite,X1E"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",ASUS,Vivobook S 15 S5507QA-MA006W,"Qualcomm Snapdragon X Elite,X1E",16,1 TB,Qualcomm Adreno™ Onboard Graphics
+"ACER Aspire 3 (A315-58-59FM), Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-1135G7 Prozessor, 8 GB RAM, 512 GB SSD, Intel® Iris® Xe, Pure Silver, Windows 11 Home (64 Bit)","499,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 3 (A315-58-59FM)"",
+        ""CPU"": ""Intel® Core™ i5,i5-1135G7"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ACER,Aspire 3 (A315-58-59FM),"Intel® Core™ i5,i5-1135G7",8,512 GB,Intel® Iris® Xe
+"APPLE MacBook Air (2024), MRYP3D/A, Notebook, mit 15,3 Zoll Display, M3 Prozessor, 8 GB RAM, 256 GB SSD, Silber, macOS","1599,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,256 GB,
+"ACER Chromebook 315 (CB315-3HT-P440), Chromebook, mit 15,6 Zoll Display Touchscreen, Intel® Pentium®,N5000 Prozessor, 4 GB RAM, 128 GB eMMC, Intel® UHD 605, Pure Silver, Google Chrome OS","519,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook 315 (CB315-3HT-P440)"",
+        ""CPU"": ""Intel® Pentium®,N5000"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Intel® UHD 605""
+    }
+]
+```",ACER,Chromebook 315 (CB315-3HT-P440),"Intel® Pentium®,N5000",4,128 GB eMMC,Intel® UHD 605
+"MICROSOFT Surface Laptop Go 3, Notebook, mit 12,45 Zoll Display Touchscreen, Intel® Core™ i5,i5-1235U Prozessor, 8 GB RAM, 256 GB SSD, Intel® Iris® Xe, Eisblau, Windows 11 Home (64 Bit)","859,99€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Go 3"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MICROSOFT,Surface Laptop Go 3,"Intel® Core™ i5,i5-1235U",8,256 GB,Intel® Iris® Xe
+"APPLE MacBook Air (2024), MRYQ3D/A, Notebook, mit 15,3 Zoll Display, M3 Prozessor, 8 GB RAM, 512 GB SSD, Silber, macOS","1829,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,512 GB,
+"HP 15s-fq5356ng, Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-1235U Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (64 Bit)","699,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""15s-fq5356ng"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HP,15s-fq5356ng,"Intel® Core™ i5,i5-1235U",16,1 TB,Intel® Iris® Xe
+"MEDION AKOYA® E16423, Notebook, mit 16 Zoll Display, Intel® Core™ i7,i7-1195G7 Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (64 Bit)","749,00€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""AKOYA® E16423"",
+        ""CPU"": ""Intel® Core™ i7,i7-1195G7"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MEDION,AKOYA® E16423,"Intel® Core™ i7,i7-1195G7",16,512 GB,Intel® Iris® Xe
+"LENOVO LOQ 15AHP9, Gaming-Notebook, mit 15,6 Zoll Display, AMD Ryzen™ 5,8645HS Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 4050, Luna Grey, Windows 11 Home (64 Bit)","1049,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""LOQ 15AHP9"",
+        ""CPU"": ""AMD Ryzen™ 5,8645HS"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",LENOVO,LOQ 15AHP9,"AMD Ryzen™ 5,8645HS",16,512 GB,NVIDIA GeForce RTX™ 4050
+"MICROSOFT Surface Laptop Go 3, Notebook, mit 12,45 Zoll Display Touchscreen, Intel® Core™ i5,i5-1235U Prozessor, 16 GB RAM, 256 GB SSD, Intel® Iris® Xe, Salbei, Windows 11 Home (64 Bit)","1149,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Go 3"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 16,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MICROSOFT,Surface Laptop Go 3,"Intel® Core™ i5,i5-1235U",16,256 GB,Intel® Iris® Xe
+"MEDION ERAZER Deputy P60, Gaming Notebook, mit 15,6 Zoll Display, Intel® Core™ 7,i7-13620H Prozessor, 32 GB RAM, 2 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz, Windows 11 Home (64 Bit)","1649,00€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""ERAZER Deputy P60"",
+        ""CPU"": ""Intel® Core™ 7,i7-13620H"",
+        ""RAM"": 32,
+        ""disk space"": ""2 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",MEDION,ERAZER Deputy P60,"Intel® Core™ 7,i7-13620H",32,2 TB,NVIDIA GeForce RTX™ 4070
+"ASUS Flip CX5 CX5601FBA-MC0038, Chromebook Plus, mit 16 Zoll Display Touchscreen, Intel® Core™ i5,i5-1235U Prozessor, 8 GB RAM, 128 GB SSD, Intel® Iris® Xe, Grau, Google Chrome OS","899,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Flip CX5 CX5601FBA-MC0038"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 8,
+        ""disk space"": ""128 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ASUS,Flip CX5 CX5601FBA-MC0038,"Intel® Core™ i5,i5-1235U",8,128 GB,Intel® Iris® Xe
+"ASUS VivoBook S 14 OLED S5406MA-PP018W, Notebook, mit 14 Zoll Display, Intel® Core™ Ultra 5,125H Prozessor, 16 GB RAM, 512 GB SSD, Intel® Arc® GPU, Mist Blue, Windows 11 Home (64 Bit)","1099,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook S 14 OLED S5406MA-PP018W"",
+        ""CPU"": ""Intel® Core™ Ultra 5,125H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",ASUS,VivoBook S 14 OLED S5406MA-PP018W,"Intel® Core™ Ultra 5,125H",16,512 GB,Intel® Arc® GPU
+"ASUS ZenBook Pro 17 UM6702RC-M2042WS, Creator Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 9,6900HX Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 3050, Schwarz, Windows 11 Home (64 Bit)","1799,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ZenBook Pro 17 UM6702RC-M2042WS"",
+        ""CPU"": ""AMD Ryzen™ 9,6900HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 3050""
+    }
+]
+```",ASUS,ZenBook Pro 17 UM6702RC-M2042WS,"AMD Ryzen™ 9,6900HX",16,1 TB,NVIDIA GeForce RTX™ 3050
+"MICROSOFT Surface Laptop, Copilot+ PC, 7. Edition, Copilot+ PC, mit 15 Zoll Display Touchscreen, Qualcomm Snapdragon X Elite, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","1719,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop, Copilot+ PC, 7. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Laptop, Copilot+ PC, 7. Edition",Qualcomm Snapdragon X Elite,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"ASUS VivoBook S 16 OLED S5606MA-MX011X, Notebook, mit 16 Zoll Display, Intel® Core™ Ultra 9,185H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Neutral Black, Windows 11 Pro (64 Bit)","1499,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook S 16 OLED S5606MA-MX011X"",
+        ""CPU"": ""Intel® Core™ Ultra 9,185H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",ASUS,VivoBook S 16 OLED S5606MA-MX011X,"Intel® Core™ Ultra 9,185H",16,1 TB,Intel® Arc® GPU
+"ASUS Vivobook S 15 OLED S5506MA-MA074W, Notebook, mit 15,6 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Schwarz, Windows 11 Home (64 Bit)","1299,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Vivobook S 15 OLED S5506MA-MA074W"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",ASUS,Vivobook S 15 OLED S5506MA-MA074W,"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc® GPU
+"ACER Aspire 3 (A317-54-39UF), Notebook, mit 17,3 Zoll Display, Intel® Core™ i3,1215U  Prozessor, 8 GB RAM, 512 GB SSD, Intel® UHD Graphics, Pure Silver, Windows 11 (64 Bit)","499,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 3 (A317-54-39UF)"",
+        ""CPU"": ""Intel® Core™ i3,1215U"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Aspire 3 (A317-54-39UF),"Intel® Core™ i3,1215U",8,512 GB,Intel® UHD Graphics
+"MICROSOFT Surface Laptop, Copilot+ PC, 7. Edition, Copilot+ PC, mit 13,8 Zoll Display Touchscreen, Qualcomm Snapdragon X Elite, 16 GB RAM, 1 TB SSD, Qualcomm Adreno™ Onboard Graphics, Platin, Windows 11 Home (64 Bit)","1899,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop, Copilot+ PC, 7. Edition"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",MICROSOFT,"Surface Laptop, Copilot+ PC, 7. Edition",Qualcomm Snapdragon X Elite,16,1 TB,Qualcomm Adreno™ Onboard Graphics
+"LENOVO Legion Slim 5i, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i7,i7-13700H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Storm Grey, Windows 11 Home (64 Bit)","1929,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""Legion Slim 5i"",
+        ""CPU"": ""Intel® Core™ i7-13700H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",LENOVO,Legion Slim 5i,Intel® Core™ i7-13700H,16,1 TB,NVIDIA GeForce RTX™ 4070
+"ACER Chromebook Spin 513 (CP513-1H-S6H0) mit Tastaturbeleuchtung, Chromebook, mit 13,3 Zoll Display Touchscreen, Qualcomm Snapdragon 700 Series,7180c Prozessor, 4 GB RAM, 64 GB eMMC, Qualcomm Adreno™ Onboard Graphics, Pure Silver, Google Chrome OS","499,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook Spin 513 (CP513-1H-S6H0)"",
+        ""CPU"": ""Qualcomm Snapdragon 7180c"",
+        ""RAM"": 4,
+        ""disk space"": ""64 GB eMMC"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",ACER,Chromebook Spin 513 (CP513-1H-S6H0),Qualcomm Snapdragon 7180c,4,64 GB eMMC,Qualcomm Adreno™ Onboard Graphics
+"ASUS VivoBook S 16 Flip TP3604VA-MC069W, Convertible, mit 16 Zoll Display Touchscreen, Intel® Core™ i9 i9-13900H (Evo) Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Schwarz, Windows 11 Home (64 Bit)","1399,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""VivoBook S 16 Flip TP3604VA-MC069W"",
+        ""CPU"": ""Intel® Core™ i9 i9-13900H (Evo)"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",ASUS,VivoBook S 16 Flip TP3604VA-MC069W,Intel® Core™ i9 i9-13900H (Evo),16,1 TB,Intel® Iris® Xe
+"APPLE MacBook Air (2024), MRYT3D/A, Notebook, mit 15,3 Zoll Display, M3 Prozessor, 8 GB RAM, 512 GB SSD, Polarstern, macOS","1829,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,512 GB,
+"HP 17-cn3358ng, Notebook, mit 17,3 Zoll Display, Intel® Core™ i5,i5-1334U Prozessor, 16 GB RAM, 512 GB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (64 Bit)","699,00€","```json
+[
+    {
+        ""brand"": ""HP"",
+        ""model name"": ""17-cn3358ng"",
+        ""CPU"": ""Intel® Core™ i5,i5-1334U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",HP,17-cn3358ng,"Intel® Core™ i5,i5-1334U",16,512 GB,Intel® Iris® Xe
+"MICROSOFT Surface Laptop Studio 2, Notebook, mit 14,4 Zoll Display Touchscreen, Intel® Core™ i7,i7-13700H  Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4050, Platin, Windows 11 Home (64 Bit)","3199,00€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Studio 2"",
+        ""CPU"": ""Intel® Core™ i7,i7-13700H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4050""
+    }
+]
+```",MICROSOFT,Surface Laptop Studio 2,"Intel® Core™ i7,i7-13700H",32,1 TB,NVIDIA GeForce RTX™ 4050
+"MEDION S17413, Notebook, mit 17,3 Zoll Display, Intel® Core™ 5,i5-1235U Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Silber, Windows 11 Home (32 bit)","679,00€","```json
+[
+    {
+        ""brand"": ""MEDION"",
+        ""model name"": ""S17413"",
+        ""CPU"": ""Intel® Core™ i5-1235U"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MEDION,S17413,Intel® Core™ i5-1235U,16,1 TB,Intel® Iris® Xe
+"LENOVO Yoga 9i (8. Generation), Premium Convertible Notebook, mit 14 Zoll Display Touchscreen, Intel® Core™ i7 i7-1360P (Evo) Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Oatmeal/Champagnersilber, Windows 11 Home (64 Bit)","1999,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""Yoga 9i (8. Generation)"",
+        ""CPU"": ""Intel® Core™ i7 i7-1360P (Evo)"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",LENOVO,Yoga 9i (8. Generation),Intel® Core™ i7 i7-1360P (Evo),16,1 TB,Intel® Iris® Xe
+"APPLE MacBook Air (2024), MXD33D/A, Notebook, mit 15,3 Zoll Display, M3 Prozessor, 16 GB RAM, 512 GB SSD, Polarstern, macOS","2059,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,16,512 GB,
+"GIGABYTE AERO 16 OLED, Creator Notebook, mit 16 Zoll Display, Intel® Core™ i9,i9-13900H Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Twilight Silver, Windows 11 Pro (64 Bit)","2399,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""AERO 16 OLED"",
+        ""CPU"": ""Intel® Core™ i9,i9-13900H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",GIGABYTE,AERO 16 OLED,"Intel® Core™ i9,i9-13900H",32,1 TB,NVIDIA GeForce RTX™ 4070
+"ASUS ROG Zephyrus G14 GA403UI-QS024W, Gaming Notebook, mit 14 Zoll Display, AMD Ryzen™ 9,8945HS Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Schwarz/Grau, Windows 11 Home (64 Bit)","2399,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Zephyrus G14 GA403UI-QS024W"",
+        ""CPU"": ""AMD Ryzen™ 9 8945HS"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ASUS,ROG Zephyrus G14 GA403UI-QS024W,AMD Ryzen™ 9 8945HS,32,1 TB,NVIDIA GeForce RTX™ 4070
+"ACER Swift Go 16 OLED (SFG16-72-77XN) mit 120 Hz Display mit Tastaturbeleuchtung, Notebook, mit 16 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Steel Gray, Windows 11 Home (64 Bit)","1269,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Swift Go 16 OLED (SFG16-72-77XN)"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",ACER,Swift Go 16 OLED (SFG16-72-77XN),"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc® GPU
+"ACER Nitro 16 (AN16-41-R0QU) mit 165 Hz Display und RGB Tastatur, Notebook, mit 16,0 Zoll Display, AMD Ryzen™ 7, 7840HS Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Obsidian Black, Windows 11 Home (64 Bit)","1649,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Nitro 16 (AN16-41-R0QU)"",
+        ""CPU"": ""AMD Ryzen™ 7, 7840HS"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",ACER,Nitro 16 (AN16-41-R0QU),"AMD Ryzen™ 7, 7840HS",16,1 TB,NVIDIA GeForce RTX™ 4070
+"SAMSUNG Galaxy Book 4 Edge, Copilot+ PC, mit 14 Zoll Display, Qualcomm Snapdragon X Elite, 16 GB RAM, 512 GB SSD, Qualcomm Adreno™ Onboard Graphics, Sapphire Blue, Windows 11 Home (64 Bit)","1699,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book 4 Edge, Copilot+ PC"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",SAMSUNG,"Galaxy Book 4 Edge, Copilot+ PC",Qualcomm Snapdragon X Elite,16,512 GB,Qualcomm Adreno™ Onboard Graphics
+"SAMSUNG Galaxy Book4 Pro, Notebook, mit 14 Zoll Display Touchscreen, Intel® Evo™ Plattform, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 512 GB SSD, Intel® Arc® GPU, Moonstone Gray, Windows 11 Home (64 Bit)","1899,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book4 Pro"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",SAMSUNG,Galaxy Book4 Pro,"Intel® Core™ Ultra 7,155H",16,512 GB,Intel® Arc® GPU
+"SAMSUNG Galaxy Book 4 Edge, Copilot+ PC, mit 16 Zoll Display Touchscreen, Qualcomm Snapdragon X Elite, 16 GB RAM, 1 TB SSD, Qualcomm Adreno™ Onboard Graphics, Sapphire Blue, Windows 11 Home (64 Bit)","2099,00€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book 4 Edge, Copilot+ PC"",
+        ""CPU"": ""Qualcomm Snapdragon X Elite"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Qualcomm Adreno™ Onboard Graphics""
+    }
+]
+```",SAMSUNG,"Galaxy Book 4 Edge, Copilot+ PC",Qualcomm Snapdragon X Elite,16,1 TB,Qualcomm Adreno™ Onboard Graphics
+"APPLE MacBook Air (2024), MRXQ3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 8 GB RAM, 256 GB SSD, Silber, macOS","1299,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": """"
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,256 GB,
+"ASUS TUF Gaming A17 FA706NF-HX018, Gaming Notebook, mit 17,3 Zoll Display, AMD Ryzen™ 5,7535HS Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 2050, Graphite Black, Kein Betriebssystem","799,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""TUF Gaming A17 FA706NF-HX018"",
+        ""CPU"": ""AMD Ryzen™ 5,7535HS"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 2050""
+    }
+]
+```",ASUS,TUF Gaming A17 FA706NF-HX018,"AMD Ryzen™ 5,7535HS",16,512 GB,NVIDIA GeForce RTX™ 2050
+"APPLE MacBook Air (2024), MRXP3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 8 GB RAM, 512 GB SSD, Space Grau, macOS","1529,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": """"
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,512 GB,
+"ACER Chromebook Plus 515 (CB515-2H-363X), Chromebook Plus, mit 15,6 Zoll Display, Intel® Core™ i3,i3-1215U  Prozessor, 8 GB RAM, 128 GB Flash, Intel® UHD Graphics, Steel Gray, Google Chrome OS","549,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook Plus 515"",
+        ""CPU"": ""Intel® Core™ i3-1215U"",
+        ""RAM"": 8,
+        ""disk space"": ""128 GB"",
+        ""GPU"": ""Intel® UHD Graphics""
+    }
+]
+```",ACER,Chromebook Plus 515,Intel® Core™ i3-1215U,8,128 GB,Intel® UHD Graphics
+"APPLE MacBook Air (2024), MXCT3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 16 GB RAM, 512 GB SSD, Polarstern, macOS","1759,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": null
+    }
+]
+```",APPLE,MacBook Air (2024),M3,16,512 GB,
+"ASUS Zenbook 14 OLED UX3405MA-PP239W, Notebook, mit 14 Zoll Display, Intel® Core™ Ultra 7,155H Prozessor, 16 GB RAM, 1 TB SSD, Intel® Arc® GPU, Blau, Windows 11 Home (64 Bit)","1499,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Zenbook 14 OLED UX3405MA-PP239W"",
+        ""CPU"": ""Intel® Core™ Ultra 7,155H"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",ASUS,Zenbook 14 OLED UX3405MA-PP239W,"Intel® Core™ Ultra 7,155H",16,1 TB,Intel® Arc® GPU
+"MICROSOFT Surface Laptop Go 3, Notebook, mit 12,45 Zoll Display Touchscreen, Intel® Core™ i5,i5-1235U Prozessor, 8 GB RAM, 256 GB SSD, Intel® Iris® Xe, Sandstein, Windows 11 (64 Bit)","859,99€","```json
+[
+    {
+        ""brand"": ""MICROSOFT"",
+        ""model name"": ""Surface Laptop Go 3"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",MICROSOFT,Surface Laptop Go 3,"Intel® Core™ i5,i5-1235U",8,256 GB,Intel® Iris® Xe
+"ACER Chromebook 314 (CB314-2H-K7E8), Chromebook, mit 14,0 Zoll Display, MediaTek Kompanio, 4 GB RAM, 128 GB eMMC, Mediatek Mali-G72, Silver, Google Chrome OS","294,99€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Chromebook 314 (CB314-2H-K7E8)"",
+        ""CPU"": ""MediaTek Kompanio"",
+        ""RAM"": 4,
+        ""disk space"": ""128 GB eMMC"",
+        ""GPU"": ""Mediatek Mali-G72""
+    }
+]
+```",ACER,Chromebook 314 (CB314-2H-K7E8),MediaTek Kompanio,4,128 GB eMMC,Mediatek Mali-G72
+"ASUS ProArt PX13 HN7306WV-LX017WS, Convertible, mit 13,3 Zoll Display Touchscreen, AMD Ryzen™ AI 9,370 Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Schwarz, Windows 11 Home (64 Bit)","2399,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ProArt PX13 HN7306WV-LX017WS"",
+        ""CPU"": ""AMD Ryzen™ AI 9,370"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ProArt PX13 HN7306WV-LX017WS,"AMD Ryzen™ AI 9,370",32,1 TB,NVIDIA GeForce RTX™ 4060
+"ACER Aspire 5 (A515-57G-567X) mit Tastaturbeleuchtung, Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-1235U Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX™ 2050, Steel Gray, Windows 11 Home (64 Bit)","879,00€","```json
+[
+    {
+        ""brand"": ""ACER"",
+        ""model name"": ""Aspire 5 (A515-57G-567X)"",
+        ""CPU"": ""Intel® Core™ i5,i5-1235U"",
+        ""RAM"": 16,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 2050""
+    }
+]
+```",ACER,Aspire 5 (A515-57G-567X),"Intel® Core™ i5,i5-1235U",16,512 GB,NVIDIA GeForce RTX™ 2050
+"ASUS Zenbook 14 OLED UX3405MA-PP665X, Notebook, mit 14 Zoll Display, Intel® Core™ Ultra 9,185H Prozessor, 32 GB RAM, 1 TB SSD, Intel® Arc® GPU, Ponder Blue, Windows 11 Pro (64 Bit)","1629,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""Zenbook 14 OLED UX3405MA-PP665X"",
+        ""CPU"": ""Intel® Core™ Ultra 9,185H"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Arc® GPU""
+    }
+]
+```",ASUS,Zenbook 14 OLED UX3405MA-PP665X,"Intel® Core™ Ultra 9,185H",32,1 TB,Intel® Arc® GPU
+"APPLE MacBook Air (2024), MRXR3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 8 GB RAM, 512 GB SSD, Silber, macOS","1529,00€","```json
+[
+    {
+        ""brand"": ""APPLE"",
+        ""model name"": ""MacBook Air (2024)"",
+        ""CPU"": ""M3"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": """"
+    }
+]
+```",APPLE,MacBook Air (2024),M3,8,512 GB,
+"GIGABYTE AORUS 16X, Gaming Notebook, mit 16 Zoll Display, Intel® Core™ i7,i7-13650HX  Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4070, Midnight Grey, Windows 11 (64 Bit)","1599,00€","```json
+[
+    {
+        ""brand"": ""GIGABYTE"",
+        ""model name"": ""AORUS 16X"",
+        ""CPU"": ""Intel® Core™ i7-13650HX"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4070""
+    }
+]
+```",GIGABYTE,AORUS 16X,Intel® Core™ i7-13650HX,16,1 TB,NVIDIA GeForce RTX™ 4070
+"LENOVO Yoga Slim 7i ProX, Premium Notebook, mit 14,5 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ i5,i5-12500H (Evo) Prozessor, 16 GB RAM, 1 TB SSD, Intel® Iris® Xe, Ultimate Grey, Windows 11 Home (64 Bit)","1312,00€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""Yoga Slim 7i ProX"",
+        ""CPU"": ""Intel® Core™ i5-12500H (Evo)"",
+        ""RAM"": 16,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",LENOVO,Yoga Slim 7i ProX,Intel® Core™ i5-12500H (Evo),16,1 TB,Intel® Iris® Xe
+"ASUS ROG Zephyrus G14 GA402XV-NC027W, Gaming Notebook, mit 14 Zoll Display, AMD Ryzen™ 9,7940HS  Prozessor, 32 GB RAM, 1 TB SSD, NVIDIA GeForce RTX™ 4060, Weiß, Windows 11 Home (64 Bit)","2799,00€","```json
+[
+    {
+        ""brand"": ""ASUS"",
+        ""model name"": ""ROG Zephyrus G14 GA402XV-NC027W"",
+        ""CPU"": ""AMD Ryzen™ 9 7940HS"",
+        ""RAM"": 32,
+        ""disk space"": ""1 TB"",
+        ""GPU"": ""NVIDIA GeForce RTX™ 4060""
+    }
+]
+```",ASUS,ROG Zephyrus G14 GA402XV-NC027W,AMD Ryzen™ 9 7940HS,32,1 TB,NVIDIA GeForce RTX™ 4060
+"SAMSUNG Galaxy Book3, Notebook, mit 15,6 Zoll Display, Intel® Core™ i5,i5-1335U Prozessor, 8 GB RAM, 256 GB SSD, Intel® Iris® Xe, Graphite, Windows 11 Home (64 Bit)","829,99€","```json
+[
+    {
+        ""brand"": ""SAMSUNG"",
+        ""model name"": ""Galaxy Book3"",
+        ""CPU"": ""Intel® Core™ i5,i5-1335U"",
+        ""RAM"": 8,
+        ""disk space"": ""256 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",SAMSUNG,Galaxy Book3,"Intel® Core™ i5,i5-1335U",8,256 GB,Intel® Iris® Xe
+"LENOVO Yoga Slim 7i Pro, Slim Notebook, mit 14 Zoll Display, Intel® Evo™ Plattform, Intel® Core™ i5,i5-11320H  Prozessor, 8 GB RAM, 512 GB SSD, Intel® Iris® Xe, Light Silver, Windows 11 Home (64 Bit)","859,99€","```json
+[
+    {
+        ""brand"": ""LENOVO"",
+        ""model name"": ""Yoga Slim 7i Pro"",
+        ""CPU"": ""Intel® Core™ i5-11320H"",
+        ""RAM"": 8,
+        ""disk space"": ""512 GB"",
+        ""GPU"": ""Intel® Iris® Xe""
+    }
+]
+```",LENOVO,Yoga Slim 7i Pro,Intel® Core™ i5-11320H,8,512 GB,Intel® Iris® Xe
