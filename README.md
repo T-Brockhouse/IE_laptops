@@ -22,3 +22,4 @@ To fetch the Large Language Model used for data extraction, run the following co
 
 *Note: You can fetch any LLM that suits your GPU capabilities. The model above works well for this project and requires about 8 GB of VRAM.*
 *Also, please note that this setup has been tested with a 40xx NVIDIA GPU. Other configurations have not been tested.*
+
