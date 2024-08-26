@@ -1,6 +1,6 @@
 # Laptop Data Scraper and Analyzer
 
-This project provides a set of simple tools for scraping text data related to laptops, extracting structured information using a Large Language Model (LLM), and performing basic analysis on the extracted data.
+This project provides code for scraping text data related to laptops, extracting structured information using a Large Language Model (LLM), and performing basic analysis on the extracted data.
 
 ## Features
 
