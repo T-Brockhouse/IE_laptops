@@ -4,9 +4,11 @@ This project provides a set of simple tools for scraping text data related to la
 
 ## Features
 
-  *Web Scraping: Gather data from a German Electronics online shop.
-  *Data Extraction: Use a LLM to convert unstructured text into structured data (e.g., brand, price, CPU, ...).
-  *Data Analysis: Perform simple analyses on the extracted data.
+  **Web Scraping**: Gather data from a German Electronics online shop.
+  
+  **Data Extraction**: Use a LLM to convert unstructured text into structured data (e.g., brand, price, CPU, ...).
+  
+  **Data Analysis**: Perform simple analyses on the extracted data.
 
 ## Setup
 
