@@ -10,6 +10,9 @@ This project provides code for scraping text data related to laptops, extracting
   
   **Data Analysis**: Perform simple analyses on the extracted data.
 
+  ![Laptop Data Analysis](assets/screenshot_plot.png)
+
+
 ## Setup
 
 The project is equipped with a Dockerfile and a development container for easy setup and deployment.
